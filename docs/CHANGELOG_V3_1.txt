@@ -1,0 +1,13 @@
+Pi Theory Working Core v3.1 RECURSIVE RETURN
+
+Major update over v3 REALIGNED:
+- Adds the global-determination/local-resolution distinction: pi_exact is already fully determined, while finite representation is partial.
+- Reframes the inversion hypothesis as return from local determination toward a more encompassing structure, not as literal foresight.
+- Adds non-identical return: a manifested cycle may return toward unity while retaining a residual difference epsilon.
+- Adds epsilon as a formal placeholder that must be measurable in any scientific model.
+- Identifies the first zero of the canonical 36-character window (position 33 counting the initial 3) as an objective fact and a candidate cycle-transition marker.
+- Generalizes B0UM to a potentially recurrent generative transition; our cosmological Big Bang may be an instantiation rather than necessarily the first absolute event.
+- Connects SIZE to opening a new scale regime and potentially the next cycle.
+- Adds prospective tests for zero-boundaries, residual return, and repeated B0UM->SIZE motifs.
+- Keeps all new cycle claims explicitly hypothetical; no multiple-Big-Bang cosmology is claimed as established.
+- Preserves the 30-file active core and archives v3 REALIGNED.
