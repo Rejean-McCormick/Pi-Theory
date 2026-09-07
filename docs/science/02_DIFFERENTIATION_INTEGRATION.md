@@ -1,58 +1,28 @@
-# Différenciation ↔ intégration
+# Differentiation and Integration
 
-## Problème central
-
-Une organisation complexe doit souvent résoudre deux exigences opposées :
-
-- produire des différences et spécialisations;
-- maintenir des relations permettant une totalité fonctionnelle.
-
-Pi Theory condense cela en :
-
-\[
-\boxed{D\leftrightarrow A}.
-\]
-
-## Network science
-
-Concepts : modularité, communautés, hubs, intégration globale, hiérarchies et réseaux multi-échelles.
-
-Un système peut être fortement différencié sans être désintégré s'il conserve des liaisons et contraintes entre modules.
-
-## Morphogenèse
-
-Turing, Waddington, Thom et la biologie du développement offrent plusieurs mécanismes où des différences locales produisent des formes globales.
-
-## Mechanobiology
-
-La cohésion d'un tissu dépend de tensions, contraintes et forces coordonnées. L'harmonie n'est donc pas l'absence de tension.
-
-## Simondon
-
-La métastabilité et la transduction fournissent un modèle philosophique où une tension préindividuelle se résout en nouvelle structure, qui conserve de nouveaux potentiels.
-
-## Whitehead
-
-La « concrescence » offre un modèle métaphysique du multiple devenant un nouvel un sans que les éléments antérieurs soient simplement niés.
-
-## Formulation Pi Theory
-
-Une unité enrichie devrait présenter :
+Complex organization often requires two apparently opposed capacities:
 
 ```text
-différenciation élevée + intégration élevée
+specialize parts
+and
+coordinate parts
 ```
 
-et non :
+This pair is central to Pi Theory.
 
-```text
-uniformité maximale.
-```
+## Candidate domains
 
-## Test scientifique
+- cell differentiation and organismal integration;
+- modular neural organization;
+- social specialization and institutional coordination;
+- network community structure;
+- multi-agent systems;
+- developmental morphogenesis.
 
-Chercher des métriques capables de distinguer :
+## Formal target
 
-- désordre fragmenté;
-- homogénéité rigide;
-- complexité intégrée.
+Define distinct measures `D(x)` and `I(x)` rather than treating complexity as one scalar.
+
+A system with high integration but no differentiation is homogeneous. A system with high differentiation but no integration is fragmented.
+
+The theory is most interested in regimes where both remain high.

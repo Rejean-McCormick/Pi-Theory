@@ -1,148 +1,79 @@
-# Modèle dynamique minimal
+# Minimal Dynamic Model
 
-## Architecture
+## 1. State dynamics
 
-```text
-Ω → D0 ↔ M → V → (D ↔ A) → T → S
-```
+Let `x(t)` denote the state of a system.
 
-avec :
-
-- `Ω` : principe/unité;
-- `D0` : première distinction;
-- `M` : retour-cohésion;
-- `V` : orientation/BIEN;
-- `D` : différenciation;
-- `A` : intégration;
-- `T` : transition/seuil/B0UM;
-- `S` : échelle/SIZE.
-
-## 1. Espace d'états abstrait
-
-Soit `x ∈ X` un état. `X` n'est pas supposé spatial au départ.
-
-## 2. Tendances de différenciation et de cohésion
-
-Squelette :
-
-\[
-\frac{dx}{dt}=F_D(x)+F_M(x)+F_{env}(x).
-\]
-
-`F_env` est ajouté pour rappeler qu'un système physique réel échange souvent énergie, matière ou information avec un environnement. Le modèle ne doit pas feindre une dynamique fermée universelle.
-
-## 3. Observables candidates
-
-- `C(x)` : cohérence;
-- `D(x)` : différenciation;
-- `I(x)` : intégration;
-- `V(x)` : viabilité ou compatibilité fonctionnelle;
-- `K(x)` : degré de fermeture/capture éventuel.
-
-Une « bonne » cohérence ne devrait pas être définie par `C` seule. Une piste :
-
-\[
-H(x)=f(C,I,D,V,K)
-\]
-
-avec une pénalité lorsque l'intégration détruit la différenciation pertinente ou devient pure capture.
-
-## 4. Unité enrichie
-
-Condition qualitative :
+A minimal decomposition is:
 
 ```text
-D élevé + I élevé + V suffisant
+dx/dt = F_D(x) + F_M(x)
 ```
 
-plutôt que :
+`F_D` represents processes that increase differentiation. `F_M` represents processes that increase some form of integration or coherence.
+
+## 2. Candidate observables
+
+Possible system-level variables include:
 
 ```text
-uniformité élevée.
+D(x) = differentiation
+I(x) = integration
+V(x) = viability or functional persistence
+C(x) = coherence
 ```
 
-## 5. Seuil
-
-Définir un paramètre `τ(x)` :
-
-\[
-\tau(x)\ge \tau_* \Rightarrow x\in R_{n+1}.
-\]
-
-B0UM correspond alors au changement de régime `R_n → R_{n+1}`.
-
-## 6. Échelle
-
-Introduire une transformation `R_s` de coarse-graining ou de changement d'échelle :
-
-\[
-x_{s+1}=R_s(x_s).
-\]
-
-Question : certaines relations du kernel restent-elles invariantes ou se renormalisent-elles de manière régulière ?
-
-## 7. Mémoire
-
-Une dynamique avec histoire peut être notée :
-
-\[
-x(t)=F[x(t_0:t)].
-\]
-
-ou enrichie d'une variable mémoire `m(t)`.
-
-
-## 8. Retour non identique et résidu
-
-La Source `Ω` reste distincte des états manifestés. Pour un cycle `n`, noter `U_n` l'unité manifestée de départ et `Q_n` l'opérateur de retour/réintégration après différenciation, transition et changement d'échelle.
-
-Si une distance ou mesure de différence `d` peut être définie dans un modèle concret :
-
-\[
-arepsilon_n = d(Q_n(U_n), U_n).
-\]
-
-Deux cas :
-
-- `ε_n = 0` : retour exact / cycle fermé;
-- `ε_n > 0` : retour non identique / reste de différenciation.
-
-Pi Theory v3.1 explore le second cas comme moteur possible de nouveaux cycles. Une transformation encore inconnue `G` pourrait donner :
-
-\[
-U_{n+1}=G(Q_n(U_n),arepsilon_n).
-\]
-
-Cette écriture est volontairement abstraite. Elle doit être remplacée par un modèle où `d`, `Q_n`, `G` et `ε_n` ont un sens mesurable.
-
-## 9. Cycle et changement d'échelle
-
-Schéma candidat :
+A future harmony measure might have the form:
 
 ```text
-U_n
-→ D/M/V/(D↔A)
-→ T_n (B0UM)
-→ S_n (SIZE)
-→ retour Q_n
-→ ε_n
-→ U_{n+1}
+H(x) = f(D(x), I(x), V(x))
 ```
 
-L'hypothèse forte est que `U_{n+1}` peut appartenir à un régime d'échelle plus large ou plus riche que `U_n`. Cela formalise le « retour sans répétition ».
+No canonical function has yet been established.
 
-## 10. Boucle réflexive
+## 3. Threshold
 
-
-Dans les systèmes capables de représentation, introduire un modèle interne `\hat{x}`. Le retour réflexif devient alors une relation entre :
+`B0UM` can be represented abstractly as:
 
 ```text
-état du monde x
-→ modèle interne x̂
-→ action/interprétation
-→ nouvelle relation au monde.
+if tau(x) >= tau_star:
+    x -> new_regime(x)
 ```
 
-## Statut
+The meaning of `tau` depends on the scientific domain: instability, control parameter, criticality, energetic barrier, network transition, or another measurable variable.
 
-Ce document est un **squelette de formalisation**, pas une loi physique établie. Il sert à transformer des mots en quantités qui pourraient, à terme, échouer à décrire certains systèmes.
+## 4. Scale transition
+
+`SIZE` suggests coarse-graining or scale change:
+
+```text
+x_(s+1) = R_s(x_s)
+```
+
+The research question is whether any functional relation survives the transformation `R_s` as an invariant, fixed point, or universality pattern.
+
+## 5. Memory
+
+Matter-as-memory can be modeled weakly through path dependence:
+
+```text
+x(t) depends on prior states, constraints, or internal memory variables
+```
+
+This is compatible with hysteresis, metastability, structural inheritance, and physical memory. It does not by itself establish a pi-specific mechanism.
+
+## 6. Recursive return
+
+A generic cycle is:
+
+```text
+U_n -> D_n -> A_n -> U_(n+1)
+```
+
+A residual formulation is:
+
+```text
+U_(n+1) = integrate(D_n) + epsilon_n
+```
+
+The symbol `epsilon_n` is provisional. It denotes irreducible difference, not measurement error unless a future model defines it that way.

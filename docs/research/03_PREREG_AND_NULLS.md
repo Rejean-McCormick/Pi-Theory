@@ -1,59 +1,39 @@
-# Préenregistrement et null models
+# Preregistration and Null Models
 
-## Pourquoi
+## Why this is necessary
 
-La découverte initiale était exploratoire. La seule façon de transformer le résultat en programme confirmatoire est de figer **les prochaines analyses avant inspection**.
+The original decoding was exploratory. Confirmatory evidence must come from analyses whose rules are fixed before the relevant data are inspected.
 
-## Préenregistrer
+## Freeze before testing
 
-### Données
-- constante;
-- base;
-- fenêtre;
+A preregistration should specify:
+
+- digit window;
 - direction;
-- longueur.
-
-### Transformations
-- mapping;
 - segmentation;
-- traitement du zéro;
-- opérations arithmétiques;
-- phonétique;
-- langues;
-- iconicité;
-- stop rule.
-
-### Prédictions
-- nombre de blocs;
-- fonctions attendues;
-- ordre;
-- motifs direct/inversé;
-- tolérances autorisées.
-
-### Mesures
-- lexicalité;
-- prononçabilité;
-- cohérence sémantique;
-- accord inter-évaluateurs;
-- coût interprétatif total.
+- numerical mapping;
+- treatment of zero;
+- allowed arithmetic operations;
+- language set;
+- phonetic tolerances;
+- semantic categories;
+- scoring function;
+- stopping rule.
 
 ## Null models
 
-1. fenêtres aléatoires de π;
-2. e, √2, φ;
-3. chaînes aléatoires avec mêmes fréquences;
-4. permutations conservant certains motifs locaux;
-5. bases alternatives;
-6. faux dictionnaires ou labels permutés pour calibrer les évaluateurs.
+At minimum compare against:
 
-## Même liberté
+- random digit strings;
+- shuffled pi windows;
+- other irrational constants;
+- alternative bases where feasible;
+- alternative segmentations generated without semantic feedback.
 
-Le contrôle doit disposer de la **même** latitude que π. On ne peut pas donner à π plusieurs langues, phonétique et iconicité, puis imposer au contrôle un dictionnaire strict.
+## Multiple-comparison control
 
-## Résultats nuls
+The probability question is not the chance of one attractive word under one fixed mapping. It is the chance of obtaining comparable semantic structure after accounting for the full search space actually available.
 
-Les résultats nuls doivent être conservés et publiés. Ils font partie du test.
+## Reporting rule
 
-## Règle centrale
-
-> **Aucune nouvelle règle ne peut être introduite après inspection pour sauver un test prospectif.**
+Report exploratory results as exploratory. Do not retroactively describe them as predicted or preregistered.

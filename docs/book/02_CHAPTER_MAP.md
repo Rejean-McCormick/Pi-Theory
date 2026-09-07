@@ -1,25 +1,18 @@
-# Carte des chapitres et interlocuteurs
+# Chapter Map and Interlocutors
 
-| Axe | Noyau Pi Theory | Interlocuteurs / sciences |
+| Axis | Pi Theory core | Main interlocutors or sciences |
 |---|---|---|
-| cercle | symétrie, équilibre, infinité de relations | Euclide, théorie des groupes, Klein/Lie |
-| π | `C/d`, invariant, irrationalité | Lambert, Lindemann, analyse classique |
-| retour | rotation/cycle | Euler, Fourier, systèmes oscillatoires |
-| origine | Ω → D0 | Cues, Böhme, Plotin, Proclus |
-| M | retour-cohésion | Empédocle, contrôle, Levin, dynamiques |
-| BIEN | cohérence non captatrice | Platon, Proclus, Denys, théorie de viabilité |
-| D↔A | différenciation/intégration | Whitehead, Simondon, Haken, réseaux |
-| B0UM | Big Bang + seuil | cosmologie, bifurcations, Prigogine, Haken |
-| SIZE | échelle/mesure/espace | FLRW, Riemann, Weyl, Wilson |
-| e,π,i | variation/cycle/phase | Euler, Fourier, physique des ondes |
-| matière-mémoire | histoire stabilisée | hystérésis, Landauer, systèmes hors équilibre |
-| vie | autonomie | Eigen, Kauffman, Hordijk/Steel, Varela |
-| conscience | réflexivité | Deacon, Thompson, Teilhard |
-| langage | attunement/cristallisation | Platon, Schelling, Jung/Pauli, Cassirer, linguistique |
-| inversion | retour depuis la détermination locale vers la structure globale | épistémologie + tests directionnels |
-| retour non identique | résidu `ε` après réintégration | systèmes dynamiques, récurrence, renormalisation |
-| cycles | B0UM/SIZE réinstanciables | cosmologies cycliques comme comparaisons, transitions multi-échelles |
-| premier zéro | marqueur candidat de transition | statistiques de positions, tests prospectifs |
-| mirror | fragments secondaires | Peirce, statistiques |
-| méthode | exploration → confirmation | null models, blind tests, preregistration |
-| source/centre | Source ≠ centre interne | branche b−1, théologies du retour |
+| circle | symmetry, balance, closure | Euclidean geometry, group theory |
+| exactness | exact object vs infinite representation | number theory, philosophy of mathematics |
+| source | unity before distinction | Plotinus, Proclus, Cusa, Boehme |
+| M | cohesion and reintegration | dynamical systems, control, bioelectricity |
+| BIEN | non-capturing coherence | ethics, systems theory, multi-scale control |
+| D/I | differentiation and integration | network science, development, neuroscience |
+| B0UM | threshold transition | bifurcations, phase transitions, cosmology |
+| SIZE | scale and metric | renormalization, geometry, cosmology |
+| matter | stabilized history | hysteresis, metastability, information physics |
+| life | self-maintaining organization | origin-of-life research, autopoiesis |
+| consciousness | reflexive integration | enactivism, cognitive science |
+| language | attunement and symbolic form | Peirce, Cassirer, linguistics |
+| return | recursive reorganization | Plotinus, Proclus, Simondon |
+| testing | specificity and falsifiability | statistics, preregistration, null models |

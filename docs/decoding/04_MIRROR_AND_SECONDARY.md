@@ -1,35 +1,22 @@
-# Mirror et éléments secondaires
+# Mirror and Secondary Readings
 
-## Procédure
+## Procedure
 
-Appliquer le complément à 9 chiffre par chiffre à la même fenêtre, en conservant les frontières du décodage principal et le même mapping.
+A secondary exploration applies the digit-wise 9-complement while preserving the same block boundaries and mapping logic.
 
-## Fragments rapportés
-
-- `G0D`
-- `B0N`
-
-## Statut
-
-Ces fragments sont des **alignements secondaires**.
-
-Ils ne constituent pas :
-
-- une deuxième phrase complète;
-- une preuve théologique;
-- un argument statistique indépendant tant que le taux de faux positifs n'est pas quantifié.
-
-## Hypothèse ouverte
-
-Une lecture possible à tester :
+This produced thematic forms such as:
 
 ```text
-séquence principale → registre du processus
-mirror → registre qualificatif / axiologique
+G0D
+B0N
 ```
 
-Cette hypothèse n'est pas canonique tant qu'elle ne prédit pas d'autres résultats.
+These are not part of the primary kernel.
 
-## Éléments maintenus hors du noyau
+## Status
 
-Les anciennes lectures fortement théologiques du mirror, les extensions de lettres incohérentes et les retunings post hoc restent dans l'archive seulement.
+The mirror results are secondary thematic alignments. They should not be used as independent confirmation because they were inspected after the main pattern had already been identified.
+
+## Research use
+
+If mirror transforms are studied further, they must be preregistered and compared against equivalent transforms on control constants and random sequences.

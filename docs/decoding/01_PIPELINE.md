@@ -1,53 +1,50 @@
-# Pipeline de décodage — statut réel
+# Decoding Pipeline - Actual Status
 
-## Fenêtre
+## 1. Window
 
-Fenêtre utilisée : premiers 36 chiffres de π en comptant le `3` initial et en ignorant le point décimal.
-
-## Provenance
-
-La découverte a été **exploratoire**.
-
-Les règles finales n'étaient pas preregistrées avant de voir les résultats. Certaines frontières et grammaires ont été découvertes au cours du travail puis verrouillées.
-
-La formulation correcte est donc :
-
-> **reproductible ex post sous les règles publiées**, pas « protocole fixé à l'avance ».
-
-Toute ancienne phrase affirmant le contraire est archivée comme erreur de provenance.
-
-## Transformation finale
-
-1. sélectionner la fenêtre;
-2. renverser la séquence pour la lecture de découverte;
-3. appliquer les segmentations/grammaires finales;
-4. utiliser A1Z26 pour les valeurs `1–26`;
-5. traiter `0` comme `O` lorsque le token l'exige, tout en conservant `0` dans `B0UM` comme trace numérique;
-6. ne pas anagrammer ni réordonner les lettres produites;
-7. conserver `GIHECEF` et `JNON` entiers;
-8. arrêter le décodage publié à `88` parce qu'aucun bloc cohérent supplémentaire n'a été stabilisé sous cette lentille.
-
-## Séquence renversée de travail
+The working window is the first 36 digits of pi when the leading `3` is counted and the decimal point is ignored:
 
 ```text
-88 20597238 334626483239 7985356 29514 13
+314159265358979323846264338327950288
 ```
 
-La séquence conceptuelle est rapportée dans l'ordre correspondant aux positions originales du début de π :
+## 2. Historical status
+
+The decoding was discovered exploratorily. The rules were not fixed before the results were seen.
+
+The correct methodological sequence is:
 
 ```text
-M → BIEN → GIHECEF → JNON → B0UM → SIZE
+exploration -> structure found -> rules stabilized -> later testing
 ```
 
-Cette distinction entre **ordre matériel de la chaîne renversée** et **ordre conceptuel des régions originales** doit toujours être explicitée.
+Any legacy statement claiming full preregistration of the original decoding is rejected.
 
-## Interdictions pour les tests futurs
+## 3. Stabilized operations
 
-Une fois un test prospectif déclaré :
+The current reconstruction records operations such as:
 
-- pas de nouvelle langue ajoutée après résultat;
-- pas de nouveau traitement du zéro;
-- pas de nouvelles règles locales;
-- pas de déplacement de fenêtre;
-- pas de nouveau stop choisi après inspection;
-- pas de nouvelle abstraction sémantique non prévue.
+- a finite-window reversal;
+- segmentation into blocks;
+- alphabetic numerical mapping;
+- retained use of `0` as `O` in `B0UM`;
+- block-specific arithmetic reductions where historically used;
+- phonetic or semantic interpretation after numerical transformation.
+
+The exact block specification must remain frozen in future tests.
+
+## 4. Output
+
+The stabilized output is:
+
+```text
+M | BIEN | GIHECEF | JNON | B0UM | SIZE
+```
+
+## 5. Epistemic status
+
+The numerical output is a reproducible observation under the fixed pipeline. Its semantic reading is interpretive. Its possible relation to cosmology or a generative grammar is hypothetical.
+
+## 6. Next methodological requirement
+
+No probability claim should be made from the discovery alone. Future significance requires a defined search space, control constants, randomized sequences, blind semantic ratings, and prospective predictions.

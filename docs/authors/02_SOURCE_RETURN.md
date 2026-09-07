@@ -1,53 +1,24 @@
-# Source, procession et retour
+# Source, Procession, and Return
 
-## Empédocle
+Pi Theory belongs to a long family of metaphysical problems concerning how multiplicity can emerge from unity and how differentiated beings can return toward a more comprehensive order.
 
-Le cycle cosmique entre Love et Strife fournit un analogue ancien de l'alternance cohésion/séparation. La Sphere sous Love est un point de comparaison majeur avec l'image d'unité circulaire.
+## Key comparisons
 
-## Plotin
+- Empedocles: integration and separation in a cosmic cycle.
+- Plotinus: procession from the One and return toward the source.
+- Proclus: remaining, procession, reversion.
+- Pseudo-Dionysius: procession from the Good and return.
+- Eriugena: manifestation and return.
+- Nicholas of Cusa: absolute unity and contracted manifestation.
 
-Le réel procède de l'Un et se retourne vers son principe par conversion/contemplation. Le retour ne signifie pas simplement inversion temporelle.
+## Pi Theory distinction
 
-## Proclus
-
-La triade `remaining – procession – reversion` donne une architecture particulièrement précise : l'effet demeure lié à sa cause, procède d'elle et retourne vers elle.
-
-## Pseudo-Denys
-
-Le Bien divin est diffusif; l'éros est mouvement d'unification et de retour. Comparer avec M/BIEN sans réduire la théologie à un opérateur scientifique.
-
-## Érigène
-
-Nature comme théophanie : procession des causes vers les effets et retour du créé vers la Source.
-
-## Nicolas de Cues
-
-L'Absolu dépasse les mesures finies; les figures mathématiques servent d'images de rapports qui excèdent leur représentation sensible.
-
-## Böhme
-
-La contrariété est nécessaire à la manifestation. Très utile pour le problème de la première distinction `Ω→D0`.
-
-## Branche b−1
-
-La structure `b−1` sert d'analogie pour :
-
-> **le maximum/centre interne d'un système n'est pas le principe qui rend ce système possible.**
-
-Lecture :
-
-- Christ : centre transparent à la Source;
-- Lucifer : centre se prenant pour la Source;
-- Adam : image incarnée.
-
-Cette branche ne dérive pas de π mais protège une distinction métaphysique centrale :
+The current model adds a strong emphasis on recursive scale change:
 
 ```text
-Source ≠ centre manifesté.
+unity -> differentiation -> integration -> new unity at a new scale
 ```
 
-## Retour sans identité parfaite — usage comparatif
+The newer residual hypothesis further proposes that return may be non-identical, leaving a difference that opens another cycle.
 
-La v3.1 distingue désormais **retour au principe** et **répétition exacte d'un état antérieur**. Les traditions de procession/retour peuvent servir à poser cette différence, mais elles ne prouvent pas l'existence du résidu `ε` proposé par Pi Theory.
-
-Question comparative à développer : un retour peut-il conserver les différences acquises et ouvrir un niveau plus large d'organisation plutôt que restaurer une simple identité ?
+These historical parallels are genealogical and conceptual. They are not independent confirmation of the digit decoding.

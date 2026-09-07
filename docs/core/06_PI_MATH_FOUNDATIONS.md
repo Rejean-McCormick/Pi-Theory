@@ -1,120 +1,63 @@
-# π — fondations mathématiques utiles à Pi Theory
+# Pi - Mathematical Foundations for Pi Theory
 
-## 1. Définition euclidienne
+## 1. Euclidean definition
 
-Pour tout cercle euclidien :
-
-\[
-\pi=\frac{C}{d}=\frac{C}{2r}.
-\]
-
-π est un nombre pur : les unités de `C` et `d` s'annulent.
-
-## 2. Linéaire et circulaire
-
-Le diamètre est un segment droit passant par le centre. La circonférence est une courbe fermée. π est donc l'invariant qui relie :
+For any Euclidean circle:
 
 ```text
-étendue diamétrale linéaire ↔ longueur circulaire totale.
+pi = C / d
 ```
 
-Cette formulation est mathématiquement légitime. En revanche, il serait trop fort de dire que la simple opposition « ligne/cercle » **cause** l'irrationalité.
+where `C` is circumference and `d` is diameter.
 
-## 3. Symétrie et équilibre
+Both quantities have the same physical unit, so the units cancel. Pi is dimensionless.
 
-Dans un cercle idéal :
+## 2. Linear and circular measure
 
-- tous les rayons sont égaux;
-- aucune direction angulaire n'est privilégiée;
-- la figure est invariant sous rotation autour de son centre;
-- il y a une infinité de points de circonférence;
-- à chaque point correspondent un rayon et une tangente.
+The diameter is a straight chord through the center. The circumference is a closed circular measure.
 
-« Parfaitement équilibré en toutes parts » peut être traduit mathématiquement par **symétrie rotationnelle exacte / isotropie angulaire**.
+Pi therefore provides an exact invariant relation between straight diametral extent and circular closure.
 
-## 4. Invariance d'échelle
-
-Si le cercle est agrandi d'un facteur `λ`, alors :
-
-\[
-C\mapsto \lambda C, \qquad d\mapsto \lambda d,
-\]
-
-et :
-
-\[
-\frac{\lambda C}{\lambda d}=\frac{C}{d}=\pi.
-\]
-
-π conserve donc le rapport indépendamment de la taille.
-
-## 5. Irrationalité et représentation infinie
-
-π est irrationnel :
-
-\[
-\pi\notin \mathbb{Q}.
-\]
-
-Il ne peut pas être écrit exactement comme `p/q` avec `p,q` entiers et `q≠0`.
-
-Conséquence : dans toute base entière `b≥2`, son expansion positionnelle ne termine pas et ne devient pas périodique.
-
-Philosophiquement :
+If `d = 1`, then:
 
 ```text
-relation exacte → représentation finie toujours incomplète
+C = pi
 ```
 
-Mathématiquement, c'est la propriété d'irrationalité qui explique la non-périodicité de l'expansion; elle n'est pas déduite du nombre infini de rayons.
+A finite straight unit corresponds to a circular circumference whose exact length is irrational.
 
-## 6. Transcendance
+## 3. Symmetry
 
-π est transcendant : il n'est racine d'aucun polynôme non nul à coefficients rationnels.
+The ideal Euclidean circle has continuous rotational symmetry. No angular direction is privileged. Every radius has equal length.
 
-Cette propriété est plus forte que l'irrationalité. Elle ne doit pas être transformée sans argument en catégorie métaphysique de « transcendance divine ».
+There is one radius for every point on the circumference and one tangent at every circumference point. This gives a continuum of radial and tangential relations.
 
-## 7. Rotation et retour
+## 4. Irrationality and representation
 
-En radians :
+Pi is irrational. Therefore its expansion in any integer positional base does not terminate and does not become periodic.
 
-- demi-tour : `π`;
-- tour complet : `2π`.
+The non-terminating expansion is an arithmetic property of pi. It is not caused by the visible infinity of radii or tangents.
 
-π intervient naturellement dans la description des rotations, ondes, oscillations et fonctions périodiques.
+## 5. Exactness
 
-Formulation prudente :
+Pi is not an unfinished number. It is exactly defined even though no finite decimal string contains all of its digits.
 
-> **π est la constante canonique de la mesure circulaire et joue un rôle central dans l'articulation mathématique de la cyclicité.**
+This distinction motivates one of Pi Theory's philosophical questions:
 
-Pas : « π est la cyclicité elle-même ».
+```text
+finite determination -> exact relation -> inexhaustible representation
+```
 
-## 8. e, π, i
+## 6. Scale invariance
 
-- `e` : forme canonique de variation continue auto-proportionnelle;
-- `π` : mesure circulaire / fermeture cyclique;
-- `i` : opérateur algébrique de rotation et composante centrale de la représentation de phase.
+All Euclidean circles satisfy the same ratio `C/d = pi` regardless of size. This is scale invariance of the ratio, not proof of a pre-spatiotemporal ontology.
 
-Euler :
+## 7. Curved geometries
 
-\[
-e^{i\theta}=\cos\theta+i\sin\theta.
-\]
+On curved surfaces, circumference divided by diameter need not equal the Euclidean constant at finite scale. Local angular geometry still uses pi in many contexts, but Pi Theory should not confuse Euclidean and non-Euclidean statements.
 
-Cette relation montre une connexion analytique profonde entre variation exponentielle, rotation et périodicité; elle ne dérive pas une cosmologie.
+## 8. Rotation and cycles
 
-## 9. Base et digits
+Pi appears naturally in angular measure, periodic functions, waves, Fourier analysis, Gaussian normalization, and many areas of mathematical physics.
 
-π est indépendant de la base. Ses digits ne le sont pas.
-
-La séquence `3.14159...` est une représentation décimale. Toute théorie du sens des digits doit donc traiter explicitement :
-
-- pourquoi base 10 ?
-- quelles propriétés survivent à un changement de base ?
-- la sémantique appartient-elle au nombre ou à l'interface nombre–cognition–culture ?
-
-## 10. Géométries non euclidiennes
-
-Sur une surface courbe, `C/d` d'un cercle géodésique n'est pas nécessairement égal à π pour des rayons finis. Cela empêche de transformer trop vite la définition euclidienne en loi universelle de tout espace.
-
-Le rôle de π reste cependant fondamental dans la mesure angulaire locale et les structures de rotation.
+This broad role supports studying pi as a structural constant. It does not by itself establish the metaphysical claims of Pi Theory.

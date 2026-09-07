@@ -1,49 +1,21 @@
-# Processus, cohérence et individuation
+# Process, Coherence, and Individuation
 
 ## Whitehead
 
-Le multiple devient un nouvel un par concrescence. Modèle très proche de l'« unité enrichie ».
+Concrescence describes a process in which multiplicity becomes a new unity. This is close to the Pi Theory idea of enriched reintegration.
 
 ## Simondon
 
-Métastabilité, individuation, transduction : une structure apparaît en résolvant partiellement un champ de tensions sans épuiser tous ses potentiels.
+Metastability and transduction provide a model in which individuation resolves tensions without exhausting the preindividual field. This is highly relevant to threshold transitions and residual difference.
 
-## Böhme
+## Stoic traditions
 
-La manifestation exige contrariété et polarité. Utile pour `Ω→D0`.
+Logos and pneuma historically connect order, cohesion, and world structure. These are conceptual parallels, not scientific mechanisms.
 
-## Schelling
+## Teilhard de Chardin
 
-Nature comme productivité et polarité dynamique.
+Complexification, consciousness, and noosphere provide a broad historical analogue for increasing integration and reflexive organization. Teleological claims require caution.
 
-## Hegel
+## Varela and enactivism
 
-Détermination, négation, quantité et mesure. Utile surtout pour la transition différence → mesure, sans imposer une lecture hégélienne du kernel.
-
-## Héraclite
-
-Harmonie comme tension d'opposés plutôt que paix uniforme.
-
-## Prigogine
-
-Irréversibilité, structures dissipatives, ordre hors équilibre.
-
-## Haken
-
-Paramètres d'ordre, instabilité, coordination de degrés de liberté.
-
-## Wiener / Ashby / Cannon
-
-Feedback, régulation, homeostasie, variété requise.
-
-## Michael Levin
-
-Régulation morphologique distribuée, pattern memory, bioélectricité.
-
-## Idée commune
-
-La cohérence n'est pas nécessairement statique :
-
-```text
-elle émerge → se maintient → se corrige → se transforme.
-```
+Cognition is treated as arising through organism-world coupling rather than as detached representation. This is useful for Pi Theory's reflexive observer hypothesis.

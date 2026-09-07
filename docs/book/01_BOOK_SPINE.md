@@ -1,94 +1,55 @@
-# Colonne vertébrale du futur livre
+# Future Book Spine
 
-## Partie I — Pourquoi π ?
+## Part I - Why Pi?
 
-1. Le cercle idéal : symétrie, équilibre, infinité de relations radiales/tangentielles.
-2. Le diamètre : détermination linéaire à travers le centre.
-3. `C/d = π` : invariant sans dimension.
-4. π irrationnel : exactitude et représentation inépuisable.
-5. Rotation, retour et invariance.
-6. Ce que ces faits permettent — et n'autorisent pas — métaphysiquement.
+1. The ideal circle: symmetry, balance, radial and tangential relations.
+2. Straight diameter and circular circumference.
+3. `pi = C/d` as a dimensionless invariant.
+4. Exact mathematical object versus inexhaustible representation.
 
-## Partie II — La grande hypothèse
+## Part II - From Unity to Manifestation
 
-7. Source / Ω.
-8. Pourquoi la différence ? `Ω→D0`.
-9. M comme retour-cohésion.
-10. BIEN comme orientation d'une cohérence non captatrice.
-11. Source ≠ centre interne : branche `b−1`, Christ/Lucifer/Adam.
+5. The deeper principle behind the circle.
+6. The first-distinction problem.
+7. M as reintegration after division.
+8. BIEN as orientation toward non-capturing coherence.
 
-## Partie III — Découverte du kernel
+## Part III - The Decoding
 
-12. Histoire exploratoire honnête.
-13. La fenêtre et l'inversion.
-14. M / BIEN.
-15. GIHECEF / JNON.
-16. B0UM / SIZE.
-17. Mirror et limites.
-18. Ce qui est observation et ce qui est interprétation.
+9. Discovery history without retrospective preregistration.
+10. The stabilized pipeline.
+11. The six-token kernel.
+12. Inversion, direct order, and the return hypothesis.
 
-## Partie IV — Langage et retour réflexif
+## Part IV - Transition and Scale
 
-19. Pourquoi des mots humains ?
-20. Attunement et cristallisation linguistique.
-21. M, onomatopées, sound symbolism, universaux et étymologie.
-22. Platon : Phèdre, Ion, Timée, Cratyle.
-23. Plotin, Ficin, Schelling, Jung/Pauli, Cassirer.
-24. L'inversion : détermination globale, retour et lecture rétrospective.
+13. Differentiation and integration.
+14. B0UM as threshold.
+15. SIZE as magnitude and scale.
+16. Recursive cycles and residual difference.
 
-## Partie V — Le moteur de structure
+## Part V - Physical and Biological Bridges
 
-25. Différenciation ↔ intégration.
-26. Attracteurs, feedback et cohérence.
-27. Morphogenèse et bioélectricité.
-28. Synergetics et paramètres d'ordre.
-29. BIEN : viabilité vs valeur.
+17. Oscillation, phase, stable modes, and fields.
+18. Matter as stabilized history.
+19. Life, autocatalysis, and self-maintenance.
+20. Consciousness and reflexive organization.
 
-## Partie VI — Cosmogenèse, seuil, cycles et espace
+## Part VI - Language and Culture
 
-30. B0UM comme Big Bang dans la cosmogonie de Pi Theory.
-31. Le premier zéro : fait numérique et hypothèse de charnière.
-32. Retour non identique et résidu de différenciation.
-33. B0UM comme opérateur potentiellement récurrent.
-34. Big Bang et espace-temps : pas d'espace préexistant.
-35. SIZE et facteur d'échelle.
-36. Nouveau cycle et changement d'échelle.
-37. Mesure, métrique, Riemann/Weyl.
-38. Pré-géométrie et espace émergent.
+21. Attunement without prehuman human language.
+22. Embodiment and phonetic attractors.
+23. Myth, symbolic forms, and cultural memory.
 
-## Partie VII — De la dynamique à la matière
+## Part VII - Historical Genealogy
 
-39. `e,π,i` : variation, cycle, phase.
-40. Euler et les modes oscillatoires.
-41. Champs, couplages, symétries, stabilité.
-42. Matière comme histoire stabilisée.
+24. Plato, Plotinus, Proclus, Cusa, Boehme.
+25. Whitehead, Simondon, Peirce, Cassirer, Teilhard.
 
-## Partie VIII — Vie et conscience
+## Part VIII - Scientific Test
 
-43. Hors équilibre et autocatalyse.
-44. Autopoïèse et autonomie.
-45. Cognition et sens.
-46. Conscience et retour réflexif.
-47. Teilhard comme synthèse métaphysique comparative.
-
-## Partie IX — Traditions de procession et retour
-
-48. Empédocle.
-49. Plotin / Proclus.
-50. Denys / Érigène.
-51. Cues / Böhme.
-52. Whitehead / Simondon.
-
-## Partie X — Est-ce vraiment π ?
-
-53. Base 10 et dépendance de représentation.
-54. Degrés de liberté du décodage.
-55. Null models.
-56. Tests à l'aveugle.
-57. Prédictions de direction et d'attunement.
-58. Test π-spécifique.
-59. Ce qui resterait de Pi Theory si le décodage échouait statistiquement.
-
-## Fin
-
-Le livre doit pouvoir conclure sans masquer l'incertitude : la force actuelle de Pi Theory est la **convergence d'une architecture mathématique, ontologique, sémiotique et scientifique**; sa faiblesse décisive est que le privilège causal/sémantique spécifique de π reste à démontrer prospectivement.
+26. Null models and degrees of freedom.
+27. Blind evaluation.
+28. Cross-base and cross-language tests.
+29. Pi-specific prediction.
+30. What would falsify the theory?

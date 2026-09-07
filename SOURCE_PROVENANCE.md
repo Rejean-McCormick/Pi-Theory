@@ -1,18 +1,9 @@
-# Source provenance
+# Source Provenance
 
-Pi Theory s'est développée par exploration itérative. Le corpus historique contient un mélange de :
+Pi Theory developed through iterative conversation, private notes, and AI-assisted drafting.
 
-- formulations et intuitions de l'auteur;
-- analyses produites avec assistance IA;
-- reconstructions ultérieures;
-- critiques méthodologiques;
-- comparaisons historiques et scientifiques;
-- erreurs ou extrapolations qui ont depuis été corrigées.
+Legacy documents are not authoritative. They may contain useful expressions of the author's ideas, but they also contain AI extrapolations, unsupported probability claims, overextended analogies, and occasional factual errors.
 
-La politique actuelle est donc :
+The active English repository is a reconstruction of the strongest current theory, not a preservation of every historical statement.
 
-> **ne pas conserver une proposition parce qu'elle existe dans un ancien document; la conserver seulement si elle survit à une relecture mathématique, conceptuelle, historique et méthodologique.**
-
-Le Working Core v3.1 est la couche active issue de cette procédure de réalignement.
-
-Les documents plus anciens restent essentiels pour retracer l'origine d'une idée, mais une contradiction entre un ancien fichier et le Working Core doit être résolue en faveur du Working Core, sauf révision explicite ultérieure.
+See [Legacy Source Manifest](provenance/LEGACY_SOURCE_MANIFEST.md).

@@ -1,49 +1,21 @@
-# Mesure, espace, échelle, vie
+# Measure, Space, Scale, and Life
 
 ## Riemann
 
-Une multiplicité n'a pas automatiquement une métrique déterminée. Important pour empêcher Pi Theory de passer trop vite de SIZE à espace.
+A manifold does not automatically come with one determined metric. This is an important guardrail against moving too quickly from `SIZE` to physical space.
 
-## Weyl
+## Renormalization and universality
 
-Symétrie, invariance, mesure, jauge et continuum.
+Modern scale theory provides rigorous ways to study how descriptions change under coarse-graining and when patterns become scale-independent.
 
-## Noether
+## Dynamical systems
 
-Lien entre symétries continues et lois de conservation. Source essentielle pour comprendre ce qu'une symétrie peut réellement impliquer en physique.
+Attractors, bifurcations, stability, and control parameters provide precise analogues for M, B0UM, and recursive regime change.
 
-## Lie / Klein
+## Origin-of-life research
 
-Groupes de transformations et invariants. Pertinent pour formaliser l'idée d'un principe conservé sous transformation.
+Autocatalytic networks, compartmentation, energy flow, and heredity are required if the theory is to bridge physical organization to living organization.
 
-## Einstein / cosmologie FLRW
+## Developmental bioelectricity and morphogenesis
 
-La géométrie de l'espace-temps est dynamique. Le facteur d'échelle cosmologique fournit un parallèle technique à SIZE.
-
-## Wilson / Kadanoff / Fisher
-
-Renormalisation, universalité, changement d'échelle, fixed points.
-
-## Amari
-
-Information geometry : exemple d'une métrique définie sur des structures probabilistes, utile pour le programme pré-géométrique.
-
-## Wheeler / Sorkin / Rovelli / Van Raamsdonk
-
-Programmes où l'espace-temps classique peut être émergent à partir de relations plus fondamentales.
-
-## Origine de la vie
-
-Eigen, Kauffman, Hordijk, Steel, Gánti, Szathmáry : réplication, autocatalyse, réseaux, transitions vers autonomie.
-
-## Varela / Maturana / Thompson
-
-Autopoïèse, enaction, cognition incarnée.
-
-## Deacon
-
-Contraintes, émergence de fonction et sens.
-
-## Teilhard
-
-Grande lecture de matière → vie → conscience → convergence; à maintenir distincte des mécanismes scientifiques.
+These domains are relevant to how organisms preserve large-scale form while cells differentiate and change locally.

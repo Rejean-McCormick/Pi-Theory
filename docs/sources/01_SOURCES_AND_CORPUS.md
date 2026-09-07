@@ -1,125 +1,31 @@
-# Sources, corpus et politique de preuve
+# Sources, Corpus, and Evidence Policy
 
-## 1. Corpus interne
+## 1. Active layer
 
-Documents de travail principaux :
+The `docs/` directory is the current canonical working layer. It contains the realigned theory in English.
 
-- `Pi v13 (2).docx` — version la plus importante pour le kernel final et l'honnêteté ex post;
-- `Pi v12 Ontological Causality...` — utile pour l'histoire de découverte, mais contient des affirmations a priori à ne plus reprendre;
-- `La théorie de π — un décodage ontologique...` — utile pour 88/SIZE et langage, à auditer;
-- `π — Synthèse précise de sa nature fondamentale.docx` — garde-fous mathématiques;
-- `3 foundamental constants.docx` / `Continuous Change, Cyclicity, and Phase` — e, π, i;
-- `Base de calcul, racine numérique...` — Source/centre, b−1, Christ/Lucifer/Adam;
-- `A Rosetta Stone of Three Grammars...` — récursion, triangulation et méthode;
-- `π as a Symbolic Blueprint...` et commentaires anciens — archives heuristiques, nombreuses références à revérifier.
+## 2. Legacy source material
 
-## 2. Politique pour les textes générés par IA
+Earlier source documents were produced through a mixture of user-authored ideas and AI-generated synthesis. Some contain useful formulations; others contain exaggerations, incorrect claims, invented confidence, weak citations, or interpretations that the current theory rejects.
 
-Un passage ancien n'est jamais conservé seulement parce qu'il apparaît dans un document.
+Therefore legacy documents are evidence about discovery history, not authority for the current theory.
 
-Avant publication, demander :
+## 3. Public English repository policy
 
-1. Est-ce une intuition de l'auteur ou une amplification de l'IA ?
-2. Le fait mathématique est-il correct ?
-3. La source citée existe-t-elle et soutient-elle réellement le point ?
-4. La formulation dépasse-t-elle ce que la source permet ?
-5. Une version plus simple et plus précise conserve-t-elle l'idée essentielle ?
+To keep the public repository coherent and avoid mixed-language or formatting problems, the current English public pack does not ship the full historical binary corpus or old release archives.
 
-## 3. Sources mathématiques prioritaires
+A provenance manifest records the major historical source titles and their role. Original artifacts should be preserved separately in a private or archival store if long-term provenance is required.
 
-- géométrie euclidienne et définition de π;
-- Lambert — irrationalité de π;
-- Lindemann — transcendance de π;
-- Euler — formule exponentielle complexe;
-- Fourier — périodicité et décomposition en modes;
-- théorie des groupes / Lie / Klein — symétrie et invariants;
-- Riemann / Weyl — métrique, espace, mesure;
-- Noether — symétrie et conservation.
+## 4. Evidence hierarchy
 
-Avant publication académique, utiliser éditions et références bibliographiques vérifiées plutôt que des pages secondaires.
+Use the following order:
 
-## 4. Cosmologie et physique
+1. independently verified mathematics;
+2. independently verified scientific literature;
+3. reproducible outputs from the frozen decoding;
+4. explicit interpretation;
+5. metaphysical or scientific hypothesis.
 
-Priorités :
+## 5. Historical claims
 
-- cosmologie FLRW et facteur d'échelle;
-- littérature standard sur Big Bang et expansion de l'espace-temps;
-- systèmes dynamiques et bifurcations;
-- Haken, synergetics;
-- Prigogine, nonequilibrium;
-- Wilson/Kadanoff/Fisher, renormalisation;
-- physique des champs, modes et phases.
-
-## 5. Vie et organisation
-
-- Michael Levin — bioélectricité/morphogenèse;
-- Eigen — dynamique prébiotique;
-- Kauffman — autocatalyse;
-- Hordijk & Steel — RAF networks;
-- Maturana & Varela — autopoïèse;
-- Evan Thompson — enaction;
-- Terrence Deacon — contraintes, fonction, sens;
-- Landauer — information physique.
-
-## 6. Philosophie / métaphysique
-
-### Source, procession, retour
-- Empédocle;
-- Plotin, *Ennéades*;
-- Proclus, *Elements of Theology*;
-- Pseudo-Denys, *Divine Names*;
-- Jean Scot Érigène;
-- Nicolas de Cues, *De docta ignorantia*;
-- Jacob Böhme;
-- Whitehead;
-- Simondon;
-- Teilhard de Chardin.
-
-### Inspiration, langage, psyché
-- Platon, *Phèdre* — mania divine et anamnèse;
-- Platon, *Ion* — chaîne magnétique de l'inspiration;
-- Platon, *Timée* — cosmos, nombre, harmonie et âme;
-- Platon, *Cratyle* — naturalité/convention des noms;
-- Plotin — art et formes intelligibles;
-- Marsile Ficin — fureurs divines;
-- Schelling, *System of Transcendental Idealism* — conscient/inconscient dans l'art;
-- Jung, *Archetypes and the Collective Unconscious*;
-- Jung & Pauli, *The Interpretation of Nature and the Psyche*;
-- Cassirer, *Philosophy of Symbolic Forms*;
-- Peirce — théorie des signes.
-
-## 7. Linguistique à ajouter au dossier de preuves
-
-À rechercher et vérifier précisément :
-
-- Roman Jakobson, « Why 'Mama' and 'Papa'? » — contraintes phonétiques des premiers mots;
-- Edward Sapir — sound symbolism;
-- travaux contemporains sur iconicité et associations son-sens cross-linguistiques;
-- études sur onomatopées et idéophones;
-- phylogénie des familles linguistiques pour éviter de compter `bien/bon/bene` comme cas indépendants.
-
-## 8. Sources à éviter comme fondation
-
-Ne pas utiliser comme preuve principale :
-
-- Wikipedia lorsque la source primaire existe;
-- Reddit;
-- blogs ésotériques;
-- compilations de citations non sourcées;
-- sites de symbolisme des nombres;
-- affirmations de vulgarisation non vérifiées.
-
-Ils peuvent aider à trouver une piste, jamais à établir un argument central.
-
-## 9. Règle comparative
-
-Pour tout parallèle historique :
-
-```text
-source primaire
-+ étude académique
-+ ressemblance précise
-+ divergence précise
-```
-
-La convergence historique montre que Pi Theory appartient à une famille de problèmes philosophiques anciens. Elle ne prouve pas le décodage ni la causalité de π.
+Quotes, page references, and historical attributions inherited from old AI-generated documents must be verified against primary or reliable scholarly sources before publication.

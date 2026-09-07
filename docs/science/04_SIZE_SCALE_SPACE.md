@@ -1,71 +1,39 @@
-# SIZE — échelle, mesure et espace
+# SIZE - Scale, Measure, and Space
 
-## 1. Terminal 88
+## 1. Token structure
 
-La lecture `88 → SIZE` combine :
-
-- iconicité : deux `8` comme deux infinis symboliques;
-- arithmétique : `8+8=16`;
-- phonétique : `seize≈size`.
-
-La fonction recherchée est plus profonde que le mot : **magnitude / échelle / comparabilité**.
-
-## 2. De l'échelle à la mesure
-
-Chaîne conceptuelle :
+The terminal `88` was interpreted through a symbolic chain:
 
 ```text
-SIZE
-→ différence de magnitude
-→ comparabilité
-→ unité / rapport
-→ mesure
-→ métrique
-→ géométrie spatiale
+8 and 8 -> dual infinity iconography
+8 + 8 = 16
+French "seize" approximately echoes English "size"
 ```
 
-Aucune flèche ne doit être sautée dans une formalisation.
+This is a linguistic-symbolic construction, not a mathematical identity between infinity and 16.
 
-## 3. Cosmologie
+## 2. Functional role
 
-Dans la cosmologie homogène et isotrope, le **facteur d'échelle** `a(t)` décrit l'évolution relative des distances comobiles.
-
-Cela rend le terme SIZE conceptuellement pertinent après B0UM : l'univers primordial n'évolue pas dans un contenant fixe; la structure métrique et son échelle font partie de la dynamique cosmique.
-
-Pi Theory va plus loin lorsqu'elle propose que SIZE puisse représenter l'apparition même du régime où magnitude et distance deviennent définissables. Cette proposition est métaphysique, pas une conclusion de la cosmologie standard.
-
-## 4. SIZE comme ouverture du cycle suivant
-
-Dans l'hypothèse v3.1, SIZE n'est pas seulement l'extension d'un univers déjà produit. Il peut être la **mise à disposition d'un nouveau régime de magnitude** dans lequel un cycle ultérieur devient possible.
-
-Schéma :
+The current abstraction is:
 
 ```text
-B0UM_n → SIZE_n → retour / résidu ε_n → cycle n+1
+SIZE = magnitude / scale regime
 ```
 
-Si le cycle suivant est « plus grand », cela doit être traduit en une relation d'échelle mesurable, et non gardé comme simple image.
+## 3. From scale to metric
 
-## 5. Renormalisation
+A disciplined chain is:
 
-La renormalisation fournit un second sens scientifique de SIZE : passage à un nouveau niveau effectif de description.
+```text
+scale -> comparability -> magnitude -> measure -> metric
+```
 
-Concepts :
+Physical space requires additional structure. The theory must not jump directly from the word `SIZE` to a full geometry.
 
-- coarse-graining;
-- flow;
-- fixed points;
-- relevant/irrelevant variables;
-- universality classes.
+## 4. Cosmology
 
-Question :
+Cosmology uses a scale factor to describe the relative expansion of space. This makes `B0UM -> SIZE` conceptually interesting, but it does not establish a causal decoding.
 
-> le kernel `D↔A→T→S` conserve-t-il certains invariants sous changement d'échelle ?
+## 5. Multi-scale science
 
-## 6. Deux infinis
-
-Le `88` peut symboliser deux directions d'infinité — par exemple micro/macro ou deux bornes conceptuellement non finies — mais aucune équivalence avec des infinis mathématiques de Cantor n'est affirmée.
-
-La lecture utile est :
-
-> **l'échelle naît de la relation et de la comparaison entre magnitudes, pas d'une addition littérale d'infinis.**
+Renormalization, critical phenomena, coarse-graining, and universality are high-priority scientific domains because they provide precise ways to ask whether organization recurs across scales.

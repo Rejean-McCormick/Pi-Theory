@@ -1,81 +1,43 @@
-# Programme de formalisation
+# Formalization Program
 
-## Objectif
+## Goal
 
-Construire un modèle où les termes de Pi Theory deviennent des variables ou opérateurs suffisamment précis pour produire des erreurs observables.
+Translate the vocabulary of Pi Theory into variables, operators, and measurable relations that can produce observable error when the theory is wrong.
 
-## Niveau 1 — Structure abstraite
+## Core state model
 
-Définir :
+```text
+dx/dt = F_D(x) + F_M(x)
+```
 
-- espace d'états `X`;
-- opérateur de différenciation `D̂`;
-- opérateur d'intégration `Â`;
-- fonction de cohérence `C`;
-- fonction d'orientation/viabilité `V`;
-- variable de seuil `τ`;
-- transformation d'échelle `R_s`.
+where differentiation and integration/coherence are modeled separately.
 
-## Niveau 2 — Dynamique
+## Candidate dimensions
 
-Squelette :
+```text
+D = differentiation
+I = integration
+C = coherence
+V = viability
+S = scale
+T = transition indicator
+```
 
-\[
-\dot{x}=F_D(x)+F_M(x)+F_{int}(x)+F_{env}(x).
-\]
+## Threshold model
 
-La décomposition doit être justifiée par un modèle concret, pas imposée à tout système.
+```text
+if tau(x) >= tau_star:
+    regime_n -> regime_n+1
+```
 
-## Niveau 3 — Transition
+## Multi-scale map
 
-\[
-\tau(x)\ge \tau_* \Rightarrow R_n\to R_{n+1}.
-\]
+```text
+x_(s+1) = R_s(x_s)
+```
 
-Tester sur systèmes connus de bifurcation/phase transition.
+Research should ask whether the same functional relations recur under coarse-graining.
 
-## Niveau 4 — Échelle
+## Pi-specific requirement
 
-\[
-x_{s+1}=R_s(x_s).
-\]
-
-Chercher : invariants, fixed points, relevant variables.
-
-## Niveau 5 — Mémoire
-
-Introduire une dynamique non markovienne ou des variables d'état mémorielles.
-
-## Niveau 6 — Physique
-
-Pour relier réellement le modèle à la matière, choisir un formalisme concret :
-
-- oscillateurs couplés;
-- champ scalaire ou complexe;
-- réseau dynamique;
-- modèle de réaction-diffusion;
-- système hors équilibre.
-
-Définir ensuite énergie, couplages, symétries, conditions aux limites et observables.
-
-## Niveau 7 — Retour, résidu et cycles
-
-Pour un cycle `n`, définir un état de départ manifesté `U_n` et un opérateur de retour `Q_n`. Si une distance `d` existe :
-
-\[
-arepsilon_n=d(Q_n(U_n),U_n).
-\]
-
-Tester ensuite si `ε_n` prédit objectivement :
-
-- un changement de régime;
-- une nouvelle échelle;
-- une propriété du cycle suivant.
-
-Un modèle valide doit permettre `ε_n=0` aussi bien que `ε_n>0`; Pi Theory ne doit pas imposer le résidu par définition.
-
-## Niveau 8 — π-spécificité
-
-Le modèle doit produire une quantité ou une relation où π intervient **nécessairement** et où remplacer π par un paramètre arbitraire modifie une prédiction testable.
-
-Sans ce niveau, on possède une métaphysique/process theory inspirée par π, pas encore une théorie physique de π.
+A generic complex-systems model is not enough. The formal program must eventually define `H_pi`: a consequence that changes when pi is replaced by e, sqrt(2), phi, or matched random controls.

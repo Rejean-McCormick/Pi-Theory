@@ -1,75 +1,47 @@
-# e, π, i et le pont vers la physique
+# e, pi, i, and the Physical Bridge
 
-## 1. Statut de la triade
+## 1. Three mathematical roles
 
-Le corpus distingue trois formes de représentation :
-
-- `e` : variation continue auto-proportionnelle;
-- `π` : circularité, mesure angulaire, fermeture cyclique;
-- `i` : rotation et représentation compacte de la phase.
-
-La séquence `e→π→i` est un ordre de **spécification conceptuelle**, pas une chaîne causale universelle.
-
-Il existe des cycles discrets; la cyclicité ne présuppose donc pas toute forme de continuité. La version propre est :
+A disciplined reading is:
 
 ```text
-changement
-→ changement cyclique
-→ position/phase dans un cycle
+e  = canonical self-proportional continuous change
+pi = canonical circular measure and cyclic closure
+i  = algebraic rotation and phase
 ```
 
-et `e` représente une famille canonique de changement continu, pas le changement en soi.
+These are not identities with change, cyclicity, or phase as metaphysical categories.
 
-## 2. Euler
+## 2. Euler relation
 
-\[
-e^{i\theta}=\cos\theta+i\sin\theta.
-\]
-
-Cette identité relie l'exponentielle complexe, rotation et périodicité.
-
-Elle fournit une raison mathématique réelle de considérer ensemble variation, cycle et phase.
-
-## 3. Hypothèse de pont vers la matière
-
-Chaîne de recherche :
+The standard relation
 
 ```text
-variation
-→ oscillation
-→ phase
-→ interférence / couplage
-→ modes stables
-→ excitations de champs / états liés
-→ matière
+e^(i theta) = cos(theta) + i sin(theta)
 ```
 
-Cette chaîne est plausible comme architecture de recherche parce que la physique moderne décrit de nombreux systèmes en termes de champs, modes, symétries et phases.
+shows a deep analytic connection between exponential variation, rotation, and phase.
 
-Mais elle exige des primitives supplémentaires :
+It does not derive matter or prove Pi Theory.
 
-- espace d'états;
-- action ou équations de mouvement;
-- énergie;
-- champs;
-- couplages;
-- conditions aux limites;
-- quantification;
-- symétries et brisures de symétrie.
+## 3. General grammar
 
-## 4. Place particulière de π
+A useful conceptual sequence is:
 
-π intervient de manière structurelle dans :
+```text
+change -> cyclic change -> position or phase within a cycle
+```
 
-- rotation;
-- phase;
-- Fourier;
-- ondes;
-- géométrie;
-- normalisation de nombreux problèmes isotropes.
+Discrete cycles show that cyclicity does not always require continuous exponential variation.
 
-Cela justifie une enquête sur son rôle transversal. Cela ne prouve pas que π génère physiquement la matière.
+## 4. Physical research path
 
-## 5. Objectif futur
+The most promising bridge is not `e + pi + i = matter`, but the study of:
 
-Construire un modèle minimal où le kernel Pi Theory possède une traduction physique explicite et produit au moins une prédiction quantitative indépendante.
+- oscillatory systems;
+- coupled phases;
+- stable modes;
+- fields;
+- symmetry breaking;
+- quantization;
+- critical transitions.

@@ -1,29 +1,43 @@
-# Repository map
+# Repository Map
 
-## `docs/` — canon actif
+```text
+README.md
+STATUS_AND_METHOD.md
+SOURCE_PROVENANCE.md
+REPO_METADATA.md
+CHANGELOG.md
+WIKI_SETUP.md
+VERSION
 
-Contient exactement 30 fichiers Markdown actifs. Commencer par `docs/00_START_HERE.md`.
+docs/
+  00_START_HERE.md
+  core/
+  decoding/
+  science/
+  research/
+  authors/
+  book/
+  sources/
 
-- `core/` : thèse, dictionnaire, propositions, dynamique, problèmes ouverts, fondations mathématiques.
-- `decoding/` : pipeline, tokens, inversion, miroir, langage/attunement.
-- `science/` : cohérence, différenciation/intégration, B0UM, SIZE, matière-vie-conscience, e/π/i.
-- `authors/` : traditions philosophiques, scientifiques et religieuses utilisées comme comparaisons.
-- `research/` : formalisation, tests, null models, préenregistrement, roadmap.
-- `book/` : colonne vertébrale et carte du futur livre.
-- `sources/` : cartographie du corpus et des références.
+wiki/
+  Home.md
+  01-Mathematical-Foundations.md
+  02-Core-Theory.md
+  03-Decoding-and-Method.md
+  04-Inversion-Return-and-Cycles.md
+  05-B0UM-SIZE-and-Cosmology.md
+  06-Matter-Life-Consciousness.md
+  07-Language-Culture-Attunement.md
+  08-e-pi-i.md
+  09-Scientific-Program.md
+  10-Authors-and-Convergences.md
+  11-Epistemic-Status-and-Guardrails.md
+  12-Glossary.md
+  13-Roadmap.md
+  14-Sources-and-Provenance.md
 
-## `corpus/original/` — corpus de découverte
+provenance/
+  LEGACY_SOURCE_MANIFEST.md
+```
 
-Documents historiques conservés pour provenance. Plusieurs ont été générés ou amplifiés par IA; ils ne sont pas canoniques par défaut.
-
-## `archive/releases/` — anciennes versions
-
-Packs précédents en ZIP, conservés pour historique de version et audit de l'évolution des idées.
-
-## `archive/reference/`
-
-Longues synthèses et atlas utiles à la recherche mais non actifs dans la structure compacte.
-
-## `tools/`
-
-Scripts ayant servi à reconstruire ou valider les packs documentaires.
+The `docs/` tree is canonical. The `wiki/` tree is the public explanatory layer.

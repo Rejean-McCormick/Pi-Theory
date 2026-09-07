@@ -1,73 +1,35 @@
-# Auteurs centraux
+# Core Historical Interlocutors
 
-Ces auteurs ne sont pas des « preuves ». Ils fournissent des architectures conceptuelles avec lesquelles Pi Theory doit dialoguer précisément.
+These authors are not evidence for Pi Theory. They provide conceptual architectures for comparison.
 
-## Empédocle
+## Empedocles
 
-**Love / Strife, Sphere, séparation/réunion.**
+Love and Strife provide an early model of integration and separation. The Sphere under Love is a major historical analogue for unity and circular completeness.
 
-Parallèle le plus direct avec :
+## Plotinus
 
-```text
-unité → séparation ↔ cohésion
-```
-
-## Platon
-
-Trois axes :
-
-- *Timée* : ordre cosmique, nombre, harmonie, parenté entre mouvements du cosmos et de l'âme;
-- *Phèdre* / *Ion* : inspiration, mania divine, transmission par les Muses;
-- *Cratyle* : question d'une éventuelle naturalité du rapport nom/chose.
-
-Important pour la branche attunement.
+The One, procession, and return provide a strong framework for source, manifestation, and reversion.
 
 ## Proclus
 
-Schéma : demeurer → procession → retour. Très proche de la boucle Source–manifestation–retour.
+The triad of remaining, procession, and reversion offers one of the clearest historical architectures for recursive manifestation and return.
 
-## Plotin
+## Pseudo-Dionysius
 
-L'Un, procession, conversion; l'art peut remonter aux formes dont la nature procède.
+Procession from and return to the Good is relevant to the theory's distinction between source, manifestation, and reintegration.
 
-## Nicolas de Cues
+## Nicholas of Cusa
 
-Infini, coïncidence des opposés, cercle/sphère comme images de l'Absolu, mesure et contraction.
+His use of mathematical images, infinite-circle and sphere motifs, and the relation between absolute and contracted reality is especially important for Pi Theory's circle and infinity themes.
 
-## Jacob Böhme
+## Jacob Boehme
 
-Ungrund, volonté, contrariété, manifestation. Important pour la question : pourquoi l'indifférencié entre-t-il dans la différence ?
-
-## Pseudo-Denys / Érigène
-
-Procession, Bien, éros, retour, Source au-delà de l'être déterminé.
-
-## Schelling
-
-Nature productive; art comme unité du conscient et de l'inconscient. Très utile pour la cristallisation inspirée.
-
-## Jung / Pauli
-
-Archétypes, synchronicité et conjecture d'un ordre psychophysique commun. À utiliser comme précédent spéculatif, pas comme résultat de physique.
+His account of manifestation through opposition and differentiation provides a strong historical comparison for the first-distinction problem.
 
 ## Whitehead
 
-Processus, créativité, valeur, concrescence : le multiple devient un nouvel un.
+Concrescence and the phrase that the many become one provide a process-metaphysical analogue for differentiated integration.
 
 ## Simondon
 
-Préindividuel, métastabilité, transduction, individuation.
-
-## Teilhard de Chardin
-
-Complexification, conscience, union qui différencie, convergence/Omega.
-
-## Peirce / Cassirer
-
-Peirce : types de signes et interprétation.
-
-Cassirer : langage, mythe, art et science comme formes symboliques.
-
-## Auteurs scientifiques structurants
-
-Michael Levin, Hermann Haken, Kenneth Wilson, Ilya Prigogine, Riemann, Weyl, Noether, Amari, Varela, Deacon.
+Metastability, transduction, and individuation provide scientific-philosophical tools for understanding how new individuals and regimes emerge.

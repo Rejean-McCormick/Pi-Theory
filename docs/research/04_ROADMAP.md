@@ -1,66 +1,41 @@
-# Roadmap réalignée
+# Research Roadmap
 
-## 1. Stabiliser le corpus actif
+## Phase 1 - Stabilize the conceptual core
 
-Travailler à partir de ce pack v3.1. Utiliser les anciens documents uniquement pour l'histoire de découverte et la récupération d'idées à réévaluer.
+- maintain one canonical definition for each operator;
+- keep facts, observations, interpretations, and hypotheses separate;
+- remove legacy claims that no longer survive scrutiny.
 
-## 2. Documenter précisément la découverte
+## Phase 2 - Reconstruct the decoding exactly
 
-Écrire une chronologie honnête : quelles transformations ont été essayées, dans quel ordre, et quand chaque bloc a été reconnu.
+- publish the complete frozen pipeline;
+- document every degree of freedom;
+- provide executable code where possible.
 
-## 3. Mathématiques de π
+## Phase 3 - Null-controlled decoding tests
 
-Renforcer la partie :
+- compare pi with controls;
+- use blind semantic evaluation;
+- preregister follow-up windows and transformations.
 
-- symétrie du cercle;
-- linéaire/circulaire;
-- invariance d'échelle;
-- irrationalité/transcendance;
-- base dependence;
-- rotation/phase.
+## Phase 4 - Formal dynamics
 
-## 4. Tester l'inversion
+- define measurable differentiation and integration;
+- define threshold variables;
+- test recursive scale transitions in independent complex systems.
 
-Transformer l'hypothèse de lecture rétrospective en protocole prospectif.
+## Phase 5 - Physical bridge
 
-## 5. Tester l'attunement
+Investigate oscillations, phase, stable modes, symmetry breaking, fields, criticality, and information-bearing constraints without claiming identity prematurely.
 
-Concevoir une étude linguistique qui sépare :
+## Phase 6 - Life and cognition
 
-- parenté historique;
-- articulatoire;
-- onomatopée;
-- sound symbolism;
-- résidu éventuel non expliqué.
+Study origin-of-life networks, autopoiesis, developmental regulation, active matter, enaction, and multi-scale control.
 
-## 6. Formaliser M et BIEN
+## Phase 7 - Language and culture
 
-Définir cohérence, différenciation, intégration, viabilité et capture.
+Develop cross-language tests of semantic and phonetic attractors while controlling for embodiment and historical transmission.
 
-## 7. Formaliser B0UM/SIZE
+## Phase 8 - Pi-specific prediction
 
-Relier seuil, transition et changement d'échelle dans un modèle mathématique concret.
-
-## 8. Construire le pont physique
-
-Commencer par oscillateurs/modes/champs simples avant toute spéculation sur la matière fondamentale.
-
-## 9. Tester la récursion et le retour non identique
-
-Utiliser renormalisation et réseaux multi-échelles. Introduire explicitement un opérateur de retour et un résidu `ε`; vérifier si ce résidu possède un pouvoir prédictif plutôt que de servir seulement d'explication après coup.
-
-## 9b. Tester le premier zéro comme frontière
-
-Le premier zéro de la fenêtre canonique est déjà connu; il ne peut donc plus servir de test confirmatoire. Définir une règle prospective pour les zéros suivants, d'autres fenêtres et des contrôles avant toute nouvelle lecture.
-
-## 10. Matière → vie → conscience
-
-Ne conserver que les transitions pour lesquelles un mécanisme scientifique est explicite.
-
-## 11. Rosetta prédictive
-
-Utiliser kOA, traditions ou systèmes indépendants non comme confirmation rétrospective, mais comme **surfaces de prédiction** : figer deux grammaires, prédire une propriété de la troisième, puis vérifier.
-
-## 12. Manuscrit
-
-Écrire le futur livre selon une montée contrôlée : fait → observation → interprétation → hypothèse → test.
+Produce at least one quantitative, falsifiable prediction that depends non-trivially on pi and is not inherited from already known equations.

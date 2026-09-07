@@ -1,68 +1,37 @@
-# B0UM — cosmologie et transitions
+# B0UM - Cosmology and Thresholds
 
-## 1. Lecture cosmologique
+## 1. General role
 
-Dans Pi Theory, `B0UM` est d'abord la lecture symbolique du **Big Bang / début de notre régime cosmologique accessible**.
+`B0UM` is interpreted as a threshold transition or regime change.
 
-Il ne s'agit pas d'une explosion classique dans un espace déjà présent. Dans les modèles cosmologiques standards, le Big Bang désigne l'état primordial chaud et dense et l'évolution de l'espace-temps depuis ce régime; l'expansion concerne la métrique cosmique elle-même.
-
-La correspondance intéressante est donc :
-
-```text
-B0UM → SIZE
-transition cosmologique → déploiement d'un régime d'échelle spatiale
-```
-
-### Hypothèse multi-cycle v3.1
-
-Pi Theory laisse désormais ouverte une possibilité plus générale : `B0UM` pourrait être un **type d'opérateur génératif récurrent** plutôt qu'un événement absolument unique. Le Big Bang de notre cosmologie serait alors une instanciation `B_n` dans une histoire plus large.
-
-Cette hypothèse ne signifie pas que les données cosmologiques établissent plusieurs Big Bangs. Elle signifie seulement que la structure interne de Pi Theory n'oblige plus à identifier le B0UM du kernel avec le premier événement absolu concevable.
-
-## 2. Abstraction opératoire
-
-Pour rendre le kernel récursif, B0UM est aussi abstrait comme :
-
-```text
-préparation → seuil → nouveau régime
-```
-
-Analogues scientifiques :
+Examples of scientifically legitimate analogies include:
 
 - bifurcations;
-- transitions de phase;
-- instabilités;
-- criticalité;
-- morphogenèse;
-- émergence d'un paramètre d'ordre.
+- phase transitions;
+- critical transitions;
+- symmetry breaking;
+- ignition-like threshold processes;
+- emergence of a new order parameter.
 
-## 3. Le zéro
+## 2. Cosmological reading
 
-Le `0` de B0UM est conservé comme élément distinct.
+The Big Bang is a candidate cosmological instance of the `B0UM` role.
 
-Hypothèses :
+The relevant point is not an explosion inside pre-existing space. Modern cosmology describes the early universe through an evolving space-time geometry and an expanding scale factor.
 
-- rappel du potentiel/non-manifesté originel;
-- point de passage entre régimes;
-- écho local de la création initiale dans un kernel récursif;
-- possible marqueur de fin/départ de cycle, puisque ce `0` est le premier de la fenêtre canonique de 36 chiffres.
+The Pi Theory correspondence is therefore better written as:
 
-Le fait qu'un objet puisse produire un « boom » lors d'un impact à une hauteur de référence `h=0` est un exemple physique d'association `limite → conversion brutale d'énergie → événement acoustique`, mais ce n'est pas une dérivation du sens cosmologique de B0UM.
+```text
+B0UM -> SIZE
+initial cosmological transition -> scale / metric regime
+```
 
-## 4. Formalisation
+## 3. Zero inside B0UM
 
-Introduire :
+The retained `0` may be interpreted as an echo of an origin, null level, reset, or transition boundary. A newer hypothesis links it to the direct-order relation `0 -> B`, read symbolically as `0 -> be / being`.
 
-\[
-\tau(x)\ge\tau_* \Rightarrow R_n\to R_{n+1}.
-\]
+This remains interpretive and should be tested rather than assumed.
 
-Le programme doit trouver des systèmes où la variable `τ` et le changement de régime peuvent être définis sans métaphore.
+## 4. Multiple-cycle possibility
 
-## 5. Ce que B0UM ne prouve pas
-
-La proximité phonétique avec *boom* et sa position avant SIZE sont suggestives. Elles ne suffisent pas à établir que les chiffres de π ont causé ou prédit le Big Bang.
-
-La thèse forte reste :
-
-> **la séquence pourrait être une trace symbolique du même mécanisme génératif qui s'exprime physiquement dans la cosmogenèse.**
+If `B0UM` is a generic transition operator rather than one unique event, Pi Theory is compatible with multiple cosmological cycles or multiple creation-like transitions. It does not currently demonstrate that such cycles occurred.

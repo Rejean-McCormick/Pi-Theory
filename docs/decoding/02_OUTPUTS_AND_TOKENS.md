@@ -1,98 +1,67 @@
-# Outputs et tokens stabilisés
+# Stabilized Outputs and Tokens
 
-## 1. M
+## M
+
+Current role:
 
 ```text
-13 → M
+cohesion / reintegration / many-to-one organization
 ```
 
-Lecture phonétique : `M ≈ aime`.
+The phonetic association with French `aime` belongs to discovery history. The canonical theory uses the functional role, not the pun as proof.
 
-Fonction : cohésion, retour vers relation/unité.
+## BIEN
 
-Statut : le token est direct; `aime` est une lecture phonétique française. Sa portée universelle doit être étudiée séparément par la linguistique.
-
-## 2. BIEN
+Current role:
 
 ```text
-2-9-5-14 → B-I-E-N
+orientation toward coherence that preserves difference
 ```
 
-Lecture directe : mot français `bien`, également présent comme forme apparentée dans d'autres langues romanes.
+The French word means good or well, but the theory does not reduce BIEN to moral vocabulary. It is an attempt to formalize non-capturing integration.
 
-Fonction : orientation/valeur de la cohérence.
+## GIHECEF
 
-## 3. GIHECEF
+Current role:
 
 ```text
-7-9-8-5-3-5-6 → G-I-H-E-C-E-F
+differentiation / processing / transformation
 ```
 
-Conservé entier.
+Older person-name interpretations are retained only as historical discovery lenses.
 
-Fonction actuelle : différencier / traiter / transformer.
+## JNON
 
-`Joseph` est maintenu dans l'histoire de découverte comme ressemblance phonétique ayant contribué à l'interprétation, mais n'est plus la définition du bloc.
-
-## 4. JNON
-
-Sous la grammaire finale du bloc :
+Current role:
 
 ```text
-→ J-N-O-N
+integration / assembly / recombination
 ```
 
-Conservé entier.
+Again, older mythic-name readings are not canonical definitions.
 
-Fonction actuelle : assembler / intégrer / réunir.
+## B0UM
 
-`Junon/Juno` est une lentille historique, pas une dérivation littérale.
-
-## 5. B0UM
+Current role:
 
 ```text
-2-0-21-13 → B-0-U-M
+threshold transition / regime change / creation event
 ```
 
-Lecture : `BOUM / boom`.
+`0` is retained in the token. It can carry a symbolic relation to origin, reset, null level, or transition, but those readings remain interpretive.
 
-Deux niveaux :
+## SIZE
 
-- cosmogonie : Big Bang / événement initial de l'univers;
-- abstraction dynamique : transition ou franchissement de seuil.
-
-Le `0` reste visible afin de préserver son rôle numérique et sa possible relation au zéro originel.
-
-## 6. SIZE
-
-Terminal :
+Current role:
 
 ```text
-88
+magnitude / scale / measurable regime
 ```
 
-Lecture symbolico-phonétique :
+Its discovery involves the terminal `88` and the chain `8 + 8 = 16`, with a phonetic bridge from French `seize` to English `size`. This is a symbolic-linguistic construction, not a mathematical theorem.
+
+## Canonical abstraction
 
 ```text
-8 + 8 = 16
-16 = seize
-seize ≈ size
-```
-
-Lecture iconique secondaire : `8,8` comme deux formes analogues à `∞,∞` lorsqu'elles sont couchées.
-
-Fonction : magnitude / échelle / régime de mesure.
-
-Important : jamais écrire `∞ + ∞ = 16`.
-
-## Kernel
-
-```text
-M → BIEN → GIHECEF → JNON → B0UM → SIZE
-```
-
-Abstraction :
-
-```text
-cohésion → orientation → différenciation → intégration → transition → échelle
+cohesion -> orientation -> differentiation -> integration -> transition -> scale
 ```

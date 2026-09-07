@@ -2,9 +2,4 @@
 Thumbs.db
 *.tmp
 *.bak
-*.swp
-~$*.docx
 __pycache__/
-*.pyc
-.venv/
-venv/

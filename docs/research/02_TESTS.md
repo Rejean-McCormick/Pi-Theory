@@ -1,68 +1,33 @@
-# Tests prioritaires
+# Priority Tests
 
-## Test A — Pipeline vs contrôles
+## Test A - Pipeline versus controls
 
-Appliquer le même espace de transformations à :
+Freeze the current transformation space and apply it to:
 
-- π;
+- pi;
 - e;
-- √2;
-- φ;
-- fenêtres aléatoires de π;
-- chaînes pseudo-aléatoires.
+- sqrt(2);
+- phi;
+- random digit strings matched for length and base.
 
-Comparer à coût interprétatif égal.
+Measure semantic recoverability, number of allowed transformations, and complexity of the resulting interpretation.
 
-## Test B — Rôles à l'aveugle
+## Test B - Blind semantic ratings
 
-Présenter les tokens sans récit cosmologique. Demander à des évaluateurs indépendants d'associer des fonctions parmi une liste prédéfinie.
+Present transformed tokens without labels such as cohesion, Big Bang, or scale. Ask independent raters to choose among predefined functional categories.
 
-Objectif : tester surtout GIHECEF/JNON.
+## Test C - Direction
 
-## Test C — Direction
+Compare forward, reversed, and randomly permuted windows under identical evaluation criteria.
 
-Préenregistrer une hypothèse différente pour sens direct et inversé. Tester de nouvelles fenêtres sans modifier les règles.
+## Test D - Zero positions
 
-## Test D — Attunement linguistique
+Preregister a hypothesis about the structural role of zeros before inspecting later digits. Test whether zero-adjacent structures show predicted transition properties more often in pi than controls.
 
-Préenregistrer :
+## Test E - Scale recurrence
 
-- langues;
-- concepts;
-- métrique de similarité son-sens;
-- familles étymologiques exclues ou contrôlées;
-- onomatopées traitées séparément.
+Define a multi-scale system outside the digit decoding and test whether differentiation/integration/threshold/scale relations recur under coarse-graining.
 
-Tester si les associations prévues dépassent le hasard et l'héritage historique.
+## Test F - Pi-specific physical prediction
 
-## Test E — Changement de base
-
-Chercher ce qui survit à plusieurs représentations de π. Cela peut distinguer :
-
-- propriétés du nombre;
-- propriétés de la représentation décimale;
-- propriétés de l'interface humain–représentation.
-
-## Test F — Récursion multi-échelle
-
-Construire un modèle où `D↔A→T→S` est détectable quantitativement à plusieurs niveaux. Chercher invariance ou loi de transformation.
-
-## Test G — B0UM → SIZE
-
-Dans un modèle dynamique, tester si un franchissement de seuil produit une nouvelle variable de magnitude ou un nouveau niveau effectif d'échelle.
-
-## Test H — π-spécificité
-
-Test décisif : produire une prédiction quantitative indépendante qui échoue lorsque π est remplacé par d'autres constantes ou paramètres.
-
-## Test I — Zéros et frontières de cycle
-
-Après avoir défini à l'avance une règle de fenêtre et une métrique de transition, tester si les zéros de π sont associés plus souvent que les contrôles à des sorties de type `seuil → échelle`. Ne pas redéfinir les frontières après inspection.
-
-## Test J — Retour non identique
-
-Dans un modèle dynamique indépendant du décodage, mesurer un résidu `ε` après réintégration. Tester prospectivement si `ε>0` annonce une nouvelle échelle ou un nouveau régime mieux que des modèles sans résidu.
-
-## Test K — Hypothèse multi-B0UM
-
-Formuler avant inspection ce qui compterait comme une seconde instanciation du kernel `...→B0UM→SIZE`. Chercher cette structure dans de nouvelles fenêtres avec la même grammaire et comparer à des contrôles. Une absence systématique doit compter contre la lecture récursive forte.
+The highest-value target is a quantitative prediction in physics or cosmology that depends on pi in a way not already guaranteed by ordinary geometry or known equations.

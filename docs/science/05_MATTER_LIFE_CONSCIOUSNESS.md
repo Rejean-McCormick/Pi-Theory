@@ -1,77 +1,51 @@
-# Matière → vie → conscience
+# Matter, Life, and Consciousness
 
-## 1. Matière comme histoire stabilisée
+## 1. Matter as stabilized history
 
-Version minimale :
+The weakest defensible formulation is:
 
-> **un état matériel actuel peut incorporer des contraintes héritées de son histoire de transformations.**
+> physical states can embody inherited constraints and path-dependent history.
 
-Concepts scientifiques :
+Examples include hysteresis, metastability, structural memory, and state-dependent organization.
 
-- path dependence;
-- hystérésis;
-- métastabilité;
-- mémoire structurale;
-- défauts topologiques;
-- états enregistrés dans un substrat physique.
+The stronger claim that matter stores a pi-specific cosmic resolution remains unverified.
 
-Version forte de Pi Theory :
-
-> la matière serait une trace stabilisée de la résolution cosmique d'une structure liée à π.
-
-Cette version n'est pas démontrée.
-
-## 2. De la dynamique à la matière
-
-Avant de parler de particules, il faut un pont physique :
+## 2. Candidate physical bridge
 
 ```text
-dynamique
-→ champs / degrés de liberté
-→ oscillations et modes
-→ interactions
-→ stabilité / bound states
-→ structures matérielles
+dynamics -> oscillation -> phase relation -> stable mode -> physical structure
 ```
 
-Les constantes mathématiques seules ne fournissent pas automatiquement action, énergie, couplages ou quantification.
+This points toward fields, coupled oscillators, symmetry breaking, and quantized modes, but no complete Pi Theory mechanism has been derived.
 
-## 3. Origine de la vie
+## 3. Life
 
-Étapes à distinguer :
+A serious bridge to life must include mechanisms such as:
 
-```text
-chimie hors équilibre
-→ autocatalyse
-→ compartimentation
-→ auto-entretien
-→ hérédité
-→ évolution
-→ autonomie biologique
-```
+- autocatalysis;
+- compartmentation;
+- energy throughput;
+- self-maintenance;
+- heredity;
+- adaptation and evolution.
 
-Pi Theory peut chercher le kernel dans cette montée d'organisation, mais la biologie doit fournir les mécanismes locaux réels.
+## 4. Consciousness
 
-## 4. Autopoïèse et cognition
+Integration alone is not consciousness. The theory should distinguish:
 
-Maturana/Varela : le vivant maintient l'organisation qui le constitue.
-
-Enaction : cognition comme relation active organisme–milieu.
-
-Deacon : contraintes, fonction et émergence du sens.
-
-## 5. Conscience
-
-Ne pas confondre :
-
-- intégration;
+- regulation;
 - cognition;
-- modèle interne;
-- réflexivité;
-- expérience phénoménale.
+- internal modeling;
+- reflexivity;
+- phenomenal consciousness.
 
-Le retour réflexif de Pi Theory devient intéressant lorsque le système produit une représentation de ses propres conditions d'existence.
+## 5. Reflexive loop
 
-## 6. Teilhard
+The broad metaphysical architecture is:
 
-Teilhard offre une grande lecture de complexification, conscience et convergence. Il est utile comme parallèle métaphysique, non comme mécanisme biologique démontré.
+```text
+Source -> cosmos -> matter -> life -> cognition -> consciousness
+       -> symbolic representation -> recognition of Source
+```
+
+The strongest idea is reflexive: the observer may be built by the same structural grammar it later attempts to understand.
