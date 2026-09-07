@@ -18,33 +18,66 @@ The correct methodological sequence is:
 exploration -> structure found -> rules stabilized -> later testing
 ```
 
-Any legacy statement claiming full preregistration of the original decoding is rejected.
+Any legacy statement claiming full preregistration or an a-priori fixed pipeline for the original discovery is rejected.
 
-## 3. Stabilized operations
+## 3. Reconstructed discovery logic
+
+The surviving texts preserve two different things that must not be confused:
+
+1. the final mechanical ledger, which can be reproduced exactly;
+2. the exploratory heuristics by which the ledger was discovered.
+
+The most defensible reconstruction of the discovery process is:
+
+```text
+early digits of pi
+-> experiment with orientation and simple number-letter relations
+-> recognize compact linguistic or phonetic anchors
+-> use local structural and semantic coherence to discover block boundaries and operations
+-> compare neighboring blocks for complementary functions
+-> recognize the terminal 88 as an iconic boundary
+-> stabilize the resulting ledger
+-> reproduce it without further retuning
+```
+
+In other words, semantics and phonetic resemblance were part of discovery. They were not merely added after a completely meaning-free preregistered transform.
+
+This does not make the stabilized output unreproducible. It changes the epistemic status of the discovery: exploratory first, reproducible ex post.
+
+## 4. Stabilized operations
 
 The current reconstruction records operations such as:
 
 - a finite-window reversal;
 - segmentation into blocks;
-- alphabetic numerical mapping;
+- A1Z26-style numerical mapping;
 - retained use of `0` as `O` in `B0UM`;
 - block-specific arithmetic reductions where historically used;
-- phonetic or semantic interpretation after numerical transformation.
+- phonetic or semantic interpretation during discovery and at the interpretive layer;
+- preservation of terminal `88` as an iconic token.
 
-The exact block specification must remain frozen in future tests.
+The exact block specification must remain frozen when reproducing the historical result.
 
-## 4. Output
-
-The stabilized output is:
+## 5. Stabilized output
 
 ```text
 M | BIEN | GIHECEF | JNON | B0UM | SIZE
 ```
 
-## 5. Epistemic status
+Current abstraction:
 
-The numerical output is a reproducible observation under the fixed pipeline. Its semantic reading is interpretive. Its possible relation to cosmology or a generative grammar is hypothetical.
+```text
+cohesion -> orientation -> differentiation -> integration -> transition -> scale
+```
 
-## 6. Next methodological requirement
+## 6. What the frozen ledger does and does not establish
 
-No probability claim should be made from the discovery alone. Future significance requires a defined search space, control constants, randomized sequences, blind semantic ratings, and prospective predictions.
+The digits are fixed. Given the stabilized ledger, the transformations can be repeated.
+
+That establishes reproducibility of the chosen procedure. It does not establish that the procedure was uniquely forced by the digits, nor that it was selected before semantic content appeared.
+
+## 7. Validation sequence
+
+The first major validation of the metaphysical reading is not a generic null-model exercise. It is a comparative study asking whether the relational structure recovered from pi converges with independently established accounts of creation, differentiation, integration, return, and scale.
+
+Statistical controls remain relevant later for a narrower question: whether the decoding is unusually selective relative to alternative inputs and procedures.

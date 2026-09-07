@@ -18,7 +18,7 @@
 
 ### Research
 - [[Scientific Program|09-Scientific-Program]]
-- [[Authors and Convergences|10-Authors-and-Convergences]]
+- [[Comparative Structural Convergence|10-Authors-and-Convergences]]
 - [[Epistemic Status and Guardrails|11-Epistemic-Status-and-Guardrails]]
 - [[Glossary|12-Glossary]]
 - [[Roadmap|13-Roadmap]]

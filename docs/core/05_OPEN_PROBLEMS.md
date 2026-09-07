@@ -36,10 +36,10 @@ A mechanism is needed that explains how mathematical structure could be physical
 
 Each transition requires domain-specific mechanisms. Complexity, integration, and information are not sufficient by themselves to establish life or consciousness.
 
-## 10. Historical and linguistic convergence
+## 10. Historical and structural convergence
 
-Shared biology, common cognition, onomatopoeia, linguistic inheritance, and cultural transmission are alternatives to a common cosmic source. Comparative evidence must distinguish them.
+Comparative convergence is now a primary research program rather than a decorative appendix. The Pi-derived structure must be frozen before comparison, then tested against primary sources while recording mismatches and distinguishing independent recurrence from cultural transmission, shared cognitive constraints, or common ancestry.
 
-## 11. Prospective prediction
+## 11. Prospective and pi-specific consequences
 
-The project requires at least one prediction that is fixed before inspection, is quantitatively defined, can fail, and is more likely under the pi-specific hypothesis than under controls.
+Prospective prediction is essential when Pi Theory makes statistical or empirical claims. It is not the sole criterion for the metaphysical program. A major open problem is to determine whether the theory can eventually yield pi-specific consequences that reach beyond comparative coherence and established mathematical roles.

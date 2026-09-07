@@ -26,7 +26,7 @@ The current abstract reading is:
 cohesion -> orientation -> differentiation -> integration -> transition -> scale
 ```
 
-This sequence is not treated as established physics. The original decoding was exploratory, not preregistered. Its scientific value depends on future frozen tests, null models, blind evaluation, and predictions that distinguish pi from controls.
+This sequence is not treated as established physics. The original decoding was exploratory, not preregistered. Pi Theory does not impose one validation method on every layer: metaphysical claims are assessed through conceptual coherence and comparative structural convergence; historical claims through primary-source scholarship; statistical decoding claims through controls and prospective procedures; and physical claims through the methods of the relevant science.
 
 ## Read this first
 
@@ -34,8 +34,9 @@ This sequence is not treated as established physics. The original decoding was e
 2. [Mathematical foundations](docs/core/06_PI_MATH_FOUNDATIONS.md)
 3. [Core theory](docs/core/01_THEORY.md)
 4. [Decoding pipeline](docs/decoding/01_PIPELINE.md)
-5. [Scientific status and open problems](docs/core/05_OPEN_PROBLEMS.md)
-6. [Research program](docs/research/04_ROADMAP.md)
+5. [Comparative structural convergence](wiki/10-Authors-and-Convergences.md)
+6. [Scientific status and open problems](docs/core/05_OPEN_PROBLEMS.md)
+7. [Research program](docs/research/04_ROADMAP.md)
 
 The `wiki/` directory contains a gentler public introduction designed for readers who do not already know the project.
 

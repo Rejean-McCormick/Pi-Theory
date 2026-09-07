@@ -1,33 +1,64 @@
 # Roadmap
 
-## Phase 1 - Canonical theory
+Pi Theory does not use one validation method for every kind of claim. Mathematics, metaphysics, textual comparison, decoding analysis, and physics require different tools.
 
-Keep one stable English definition of each concept and maintain the separation between facts, observations, interpretations, and hypotheses.
+## Phase 1 - Stabilize the theory and discovery record
 
-## Phase 2 - Reproducible decoding
+Keep one canonical English formulation of the theory, preserve the ex-post decoding ledger, and state plainly that the original discovery was exploratory.
 
-Publish the full transformation procedure and code.
+## Phase 2 - Comparative structural convergence
 
-## Phase 3 - Null-controlled tests
+This is the first major validation program for the metaphysical structure.
 
-Compare pi against mathematical and randomized controls under preregistered rules.
+Freeze the Pi-derived template first:
 
-## Phase 4 - Formal dynamics
+```text
+unity / source
+-> distinction
+-> cohesion / orientation
+-> differentiation <-> integration
+-> threshold / manifestation
+-> scale
+-> return / recursive reorganization
+```
 
-Define differentiation, integration, coherence, thresholds, and scale transitions quantitatively.
+Then compare it with established philosophy, theology, religious literature, mythology, fiction, and relevant scientific theories.
 
-## Phase 5 - Physical mechanisms
+The comparison should ask whether the same relations recur, not merely whether the same words appear.
 
-Investigate fields, oscillations, phase, symmetry breaking, criticality, and physical memory.
+For every source, record:
 
-## Phase 6 - Life and cognition
+- strong structural matches;
+- partial matches;
+- contradictions;
+- absent elements;
+- likely historical transmission;
+- plausible independent convergence.
 
-Connect to origin-of-life research, autopoiesis, developmental regulation, and cognitive science.
+The Pi template must not be rewritten to fit a source after the comparison begins.
 
-## Phase 7 - Language
+## Phase 3 - Audit the decoding
 
-Test attunement cross-linguistically with historical and phonological controls.
+Publish the exact stabilized procedure and the real discovery provenance. Distinguish the reproducible ledger from the exploratory heuristics that produced it.
 
-## Phase 8 - Pi-specific prediction
+## Phase 4 - Formalize the dynamics
 
-Produce a quantitative, preregistered prediction that distinguishes pi from alternatives.
+Clarify differentiation, integration, coherence, thresholds, return, and scale. Determine which relations are metaphysical and which could become measurable.
+
+## Phase 5 - Domain-specific scientific contact
+
+Where Pi Theory makes physical, biological, or cognitive claims, use the methods appropriate to those fields.
+
+## Phase 6 - Statistical selectivity
+
+Use null models, control constants, and prospective rules only for questions they can actually answer: whether a decoding pattern is unusually selective or predictive under a defined search space.
+
+These tools do not decide the truth of the metaphysical architecture.
+
+## Phase 7 - Language and culture
+
+Study attunement while controlling for embodiment, linguistic inheritance, onomatopoeia, and cultural transmission.
+
+## Phase 8 - Pi-specific consequences
+
+Seek consequences that genuinely depend on pi rather than on a generic vocabulary of process and organization.

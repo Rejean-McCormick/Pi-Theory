@@ -151,18 +151,19 @@ The language hypothesis is also limited: human words are not assumed to have exi
 
 ---
 
-## 7. What would make Pi Theory scientifically stronger?
+## 7. How should Pi Theory be evaluated?
 
-The decisive task is not to accumulate more suggestive analogies. It is to make predictions that can fail.
+There is no single validation tool for every layer of the project. A mathematical claim, a metaphysical proposition, a literary convergence, and a physical prediction are different kinds of claims.
 
-The current priorities are:
+The first major validation program for the metaphysical architecture is comparative structural convergence. The Pi-derived template is frozen first, then compared with established philosophy, theology, religious literature, mythology, fiction, and relevant scientific theories. The comparison looks for relational structure, not isolated shared words.
 
-- freeze future decoding rules before inspection;
-- compare pi with e, sqrt(2), phi, and random controls;
-- quantify the full search space used by the decoding;
-- use blind semantic evaluation;
-- test direction, zero positions, and recursive structure prospectively;
-- derive a quantitative prediction that depends specifically on pi.
+```text
+Pi structure first -> freeze relations -> compare independently
+```
+
+Statistical controls remain relevant later for a narrower question: whether the stabilized decoding is unusually selective under a defined search space. Physical claims require the methods of the relevant science.
+
+[[Read more: Comparative Structural Convergence|10-Authors-and-Convergences]]
 
 [[Read more: Scientific Program|09-Scientific-Program]]
 
@@ -189,6 +190,6 @@ This distinction is the main guardrail of the project.
 
 **Physics or mathematics:** Mathematical Foundations -> B0UM/SIZE and Cosmology -> Scientific Program -> Roadmap.
 
-**Philosophy or metaphysics:** Core Theory -> Inversion/Return -> Authors and Convergences -> Epistemic Status.
+**Philosophy or metaphysics:** Core Theory -> Comparative Structural Convergence -> Inversion/Return -> Epistemic Status.
 
 **Language and cognition:** Language/Culture/Attunement -> Matter/Life/Consciousness -> Scientific Program.

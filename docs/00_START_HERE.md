@@ -118,3 +118,8 @@ The next stage must produce tests that can fail. In particular:
 - [Direction and inversion](decoding/03_DIRECTION_AND_INVERSION.md)
 - [Scientific bridges](science/01_M_COHERENCE.md)
 - [Research roadmap](research/04_ROADMAP.md)
+
+
+## Validation philosophy
+
+No single method fits every layer. Comparative structural convergence is the first major validation program for the metaphysical architecture; statistical and empirical methods are used where their target claims make them relevant.
