@@ -2,11 +2,15 @@
 
 **Source** - Ultimate principle in the theory. It may receive a theological reading, but it is not automatically identical to pi.
 
-**Ideal circle** - Exact Euclidean structure with rotational symmetry, equal radii, no privileged angular direction, and a tangent at every circumference point.
+**Ideal circle** - Exact Euclidean structure with rotational symmetry, equal radii, no privileged angular direction, and a tangent at every circumference point. It is a mathematical object in a metric geometry, not a physical drawing.
+
+**Circular structure** - Abstraction from particular circles that emphasizes shared symmetry, closure, similarity, center-boundary organization, and absence of a privileged angular direction. In Pi Theory this can receive a metaphysical interpretation, but it is not identical to a Euclidean circle outside space.
 
 **pi_exact** - The exact mathematical invariant `C/d` for Euclidean circles.
 
 **pi_represented** - A positional expansion of pi in a chosen base. Decimal digits belong here.
+
+**Digit computation** - A temporal procedure for obtaining finite portions of a representation of pi. It reveals digits determined by `pi_exact`; it does not create the exact number.
 
 **First distinction** - The hypothesized transition from undifferentiated unity to structured multiplicity.
 

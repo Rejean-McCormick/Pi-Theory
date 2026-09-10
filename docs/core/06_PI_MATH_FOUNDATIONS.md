@@ -48,16 +48,38 @@ This distinction motivates one of Pi Theory's philosophical questions:
 finite determination -> exact relation -> inexhaustible representation
 ```
 
-## 6. Scale invariance
+## 6. Scale invariance and similarity
 
-All Euclidean circles satisfy the same ratio `C/d = pi` regardless of size. This is scale invariance of the ratio, not proof of a pre-spatiotemporal ontology.
+All Euclidean circles satisfy the same ratio `C/d = pi` regardless of size. Under uniform scaling, circumference and diameter are multiplied by the same factor, so their quotient is unchanged. This is scale invariance of the ratio, not proof of a pre-spatiotemporal ontology.
 
-## 7. Curved geometries
+This also clarifies what is shared by circles of different sizes. Their radii and positions differ, but they belong to one similarity class and share the same rotational-symmetry structure.
+
+## 7. Circle, pi, and logical dependence
+
+A Euclidean circle can be defined without using pi: it is the set of points at a fixed distance from a center in a Euclidean plane. Pi enters when circular boundary length is compared with diametral length. In this limited geometric sense, the definition of circle is logically prior to the ratio `C/d`.
+
+However, pi can also be defined independently through analysis, trigonometry, or complex mathematics, and one can then prove that the same constant governs Euclidean circles. Therefore neither `circle causes pi` nor `pi causes circle` is an adequate mathematical statement. They are linked by a common mathematical structure.
+
+## 8. No trigger is required
+
+The relation `C/d = pi` is not an event and does not need a trigger. Once Euclidean length and circle are defined, the invariant relation holds.
+
+A decimal calculation is different. An algorithm or observer can compute successive digits, but that computation does not generate pi itself. More cautiously than saying that all digits physically "already exist," mathematics allows us to say that the exact value of pi determines every digit of its expansion in any chosen positional base.
+
+## 9. Circle as object and circularity as abstraction
+
+A mathematical Euclidean circle is not a physical object, but it still presupposes a metric geometry in which distance is defined. If Pi Theory speaks of the "essence of the circle" outside space, that phrase should be treated as metaphysical language for a structural abstraction such as symmetry, closure, center-boundary organization, similarity, or absence of a privileged angular direction. It should not be presented as the standard mathematical definition of a circle.
+
+## 10. Pi beyond explicit circles
+
+Pi appears naturally in angular measure, periodic functions, waves, Fourier analysis, Gaussian normalization, complex phase, and many areas of mathematical physics. In many cases the connection can be traced to rotation, radial symmetry, Euclidean quadratic structure, or periodicity.
+
+It is nevertheless too strong to claim that every occurrence of pi contains a literal hidden circle. A more disciplined statement is that pi often signals mathematical structure closely related to the same family of symmetries and measures that the circle makes especially visible.
+
+## 11. Curved geometries
 
 On curved surfaces, circumference divided by diameter need not equal the Euclidean constant at finite scale. Local angular geometry still uses pi in many contexts, but Pi Theory should not confuse Euclidean and non-Euclidean statements.
 
-## 8. Rotation and cycles
+## 12. Structural significance
 
-Pi appears naturally in angular measure, periodic functions, waves, Fourier analysis, Gaussian normalization, and many areas of mathematical physics.
-
-This broad role supports studying pi as a structural constant. It does not by itself establish the metaphysical claims of Pi Theory.
+The broad role of pi supports studying it as a structural constant. It does not by itself establish the metaphysical claims of Pi Theory.

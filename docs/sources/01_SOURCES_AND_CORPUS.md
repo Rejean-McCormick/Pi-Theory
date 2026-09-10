@@ -29,3 +29,10 @@ Use the following order:
 ## 5. Historical claims
 
 Quotes, page references, and historical attributions inherited from old AI-generated documents must be verified against primary or reliable scholarly sources before publication.
+
+## 5. Verified historical reference added in the circle/pi clarification
+
+- Stanford Encyclopedia of Philosophy, "Literary Forms of Medieval Philosophy": identifies *The Book of Twenty-Four Philosophers* as a twelfth-century text and records the famous infinite-sphere definition of God. https://plato.stanford.edu/entries/medieval-literary/
+- Stanford Encyclopedia of Philosophy, "Cusanus, Nicolaus": discusses Nicholas of Cusa's use of center/circumference imagery for God and the unbounded universe. https://plato.stanford.edu/entries/cusanus/
+
+These references support historical attribution only. They are not evidence for the mathematical or cosmological hypotheses of Pi Theory.

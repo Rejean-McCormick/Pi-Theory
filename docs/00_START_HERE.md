@@ -14,9 +14,9 @@ pi = C / d
 
 where `C` is circumference and `d` is diameter.
 
-The circle provides a precise conjunction of rotational symmetry, equal radii, no privileged angular direction, closure, and scale invariance of the ratio `C/d`.
+The circle provides a precise conjunction of rotational symmetry, equal radii, no privileged angular direction, closure, and scale invariance of the ratio `C/d`. All Euclidean circles differ in size or position while sharing one similarity structure.
 
-Pi is an exact irrational number. Its value is complete as a mathematical object, while any positional expansion of it continues without termination or periodic repetition.
+Pi is an exact irrational number. Its value is complete as a mathematical object, while any positional expansion of it continues without termination or periodic repetition. Computing digits is a temporal procedure for representing pi; it does not trigger or generate the exact number.
 
 Pi Theory asks whether this relation between exactness, closure, measure, and inexhaustible representation can support a deeper structural model.
 

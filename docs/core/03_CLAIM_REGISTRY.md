@@ -8,8 +8,11 @@ This registry separates claim types. It is not a maturity score.
 | M2 | pi is irrational | Mathematical fact | Proven mathematics | None |
 | M3 | pi has a non-terminating, non-repeating positional expansion | Mathematical fact | Consequence of irrationality | None |
 | M4 | the ideal circle has exact rotational symmetry | Mathematical fact | Euclidean geometry | None |
+| M5 | a Euclidean circle can be defined as points at fixed distance from a center without using pi in the definition | Mathematical fact | Metric / Euclidean geometry | None |
+| M6 | Euclidean circles are similar under scaling, and `C/d` is scale-invariant | Mathematical fact | Euclidean geometry | None |
 | D1 | the stabilized pipeline yields `M BIEN GIHECEF JNON B0UM SIZE` | Reproducible internal observation | Current fixed procedure | Independent replication |
 | D2 | the original discovery was exploratory | Methodological fact | Discovery history | None |
+| I0 | "circular structure" can serve as an abstraction linking symmetry, closure, similarity, and center-boundary organization | Philosophical interpretation | Mathematical analogy | Clarify ontology and alternatives |
 | I1 | `M` functions as cohesion | Interpretation | Structural fit | Blind semantic evaluation |
 | I2 | `BIEN` functions as non-capturing orientation | Interpretation | Internal coherence | Formal criterion |
 | I3 | `GIHECEF/JNON` map to differentiation/integration | Interpretation | Dynamic fit | Independent recoverability |

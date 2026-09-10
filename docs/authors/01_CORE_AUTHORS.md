@@ -18,9 +18,13 @@ The triad of remaining, procession, and reversion offers one of the clearest his
 
 Procession from and return to the Good is relevant to the theory's distinction between source, manifestation, and reintegration.
 
+## The Book of the Twenty-Four Philosophers
+
+This anonymous medieval text is an important historical source for the formula describing God as an infinite sphere whose center is everywhere and circumference nowhere. The image should be treated as a metaphysical use of geometry, not as a theorem about a Euclidean sphere. It is useful to Pi Theory precisely because it distinguishes spatial figure from a non-local principle expressed through geometric analogy. A reliable overview is provided by the Stanford Encyclopedia of Philosophy's discussion of medieval literary forms.
+
 ## Nicholas of Cusa
 
-His use of mathematical images, infinite-circle and sphere motifs, and the relation between absolute and contracted reality is especially important for Pi Theory's circle and infinity themes.
+His use of mathematical images, infinite-circle and sphere motifs, and the relation between absolute and contracted reality is especially important for Pi Theory's circle and infinity themes. In Cusa, the center/circumference image helps distinguish absolute infinity from the contracted, perspectival universe; this is a historical analogue, not evidence for Pi Theory.
 
 ## Jacob Boehme
 

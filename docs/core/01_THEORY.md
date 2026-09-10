@@ -39,6 +39,20 @@ The theory uses `Source` as a neutral name for a deeper principle characterized 
 
 The circle is treated as an ideal spatial expression of this structure, not as a literal physical circle existing before space.
 
+A further distinction is required between a particular circle and circular structure. A particular Euclidean circle has a center, a radius, a position, and a metric context. If size and position are abstracted away, what remains mathematically is not a free-floating physical circle but a similarity and symmetry structure shared by all Euclidean circles. Pi Theory may interpret that structure metaphysically, but it should not call the interpretation a mathematical circle outside space.
+
+The current hierarchy is therefore:
+
+```text
+Source                 = metaphysical hypothesis
+circular structure     = structural abstraction / interpretation
+ideal Euclidean circle = mathematical object in metric geometry
+pi_exact               = exact invariant associated with that geometry
+pi_represented         = notation in a chosen base
+```
+
+These levels should not be collapsed into a causal sequence. In particular, the theory does not claim that a circle causes pi, that pi causes a circle, or that decimal computation causes the exact number to exist.
+
 ## 4. First distinction
 
 The major metaphysical problem is:
@@ -151,6 +165,6 @@ Human languages may crystallize recurring semantic or phonetic attractors becaus
 
 Pi Theory proposes that a fundamental structure of unity, equilibrium, symmetry, and inexhaustibility may manifest through distinction, cohesion, differentiation, integration, threshold crossings, and changes of scale.
 
-Pi is privileged because it links linear measure to circular closure, finite determination to an exact irrational invariant, and mathematical completeness to inexhaustible positional representation.
+Pi is privileged because it links linear measure to circular closure, finite determination to an exact irrational invariant, and mathematical completeness to inexhaustible positional representation. In elementary geometry, a circle can be defined without first invoking pi; pi appears when its boundary length is related to its diameter. Conversely, pi can also be defined analytically without beginning from a circle. This suggests that circle and pi are better treated as two manifestations of a deeper mathematical structure than as a simple cause-and-effect pair.
 
 The strongest empirical claim remains open: whether the early digits of pi contain a non-arbitrary, reproducible, and predictively useful trace of this generative grammar.

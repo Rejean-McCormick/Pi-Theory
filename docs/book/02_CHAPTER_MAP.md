@@ -2,8 +2,8 @@
 
 | Axis | Pi Theory core | Main interlocutors or sciences |
 |---|---|---|
-| circle | symmetry, balance, closure | Euclidean geometry, group theory |
-| exactness | exact object vs infinite representation | number theory, philosophy of mathematics |
+| circle | symmetry, balance, closure, similarity; object vs circular structure | Euclidean geometry, group theory, philosophy of mathematics |
+| exactness | exact object vs infinite representation; determination vs computation | number theory, philosophy of mathematics |
 | source | unity before distinction | Plotinus, Proclus, Cusa, Boehme |
 | M | cohesion and reintegration | dynamical systems, control, bioelectricity |
 | BIEN | non-capturing coherence | ethics, systems theory, multi-scale control |

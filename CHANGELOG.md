@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased - Circle, Pi, and Representation Clarifications - 2026-09-10
+
+- Distinguished a particular Euclidean circle from an abstract `circular structure` shared across size and position.
+- Clarified that a Euclidean circle can be defined without pi, while pi can also be defined independently of circles in analysis.
+- Replaced causal language between circle and pi with a relation/invariant formulation.
+- Clarified that digit computation does not trigger or generate pi; the exact value determines its positional digits.
+- Added a guardrail against claiming that every appearance of pi contains a literal hidden circle.
+- Added the medieval infinite-sphere motif as a historical metaphysical comparison rather than mathematical evidence.
+
 ## v3.2 Comparative Convergence - 2026-09-07
 
 - Reframed the roadmap so validation methods are matched to claim type rather than applied universally.
